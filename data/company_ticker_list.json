@@ -1,0 +1,3834 @@
+[
+  {
+    "company": "ABBank (Ngân hàng TMCP An Bình)",
+    "ticker": "ABB"
+  },
+  {
+    "company": "ACB (Ngân hàng Á Châu)",
+    "ticker": "ACB"
+  },
+  {
+    "company": "Bac A Bank (Ngân hàng TMCP Bắc Á)",
+    "ticker": "BAB"
+  },
+  {
+    "company": "BIDV (Ngân hàng TMCP Đầu tư và Phát triển Việt Nam)",
+    "ticker": "BID"
+  },
+  {
+    "company": "BVBank (Ngân hàng Bản Việt)",
+    "ticker": "BVB"
+  },
+  {
+    "company": "Vietinbank (Ngân hàng TMCP Công thương Việt Nam)",
+    "ticker": "CTG"
+  },
+  {
+    "company": "Eximbank (Ngân hàng TMCP Xuất Nhập khẩu Việt Nam)",
+    "ticker": "EIB"
+  },
+  {
+    "company": "Eximbank (Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam)",
+    "ticker": "EIB"
+  },
+  {
+    "company": "HD bank (Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh)",
+    "ticker": "HDB"
+  },
+  {
+    "company": "KienlongBank (Ngân hàng Kiên Long)",
+    "ticker": "KLB"
+  },
+  {
+    "company": "LPBank (Ngân hàng Bưu điện Liên Việt)",
+    "ticker": "LPB"
+  },
+  {
+    "company": "MB bank (Ngân hàng TMCP Quân đội)",
+    "ticker": "MBB"
+  },
+  {
+    "company": "MSB (Ngân hàng TMCP Hàng hải Việt Nam)",
+    "ticker": "MSB"
+  },
+  {
+    "company": "Nam A Bank (Ngân hàng TMCP Nam Á)",
+    "ticker": "NAB"
+  },
+  {
+    "company": "NCB (Ngân hàng TMCP Quốc dân)",
+    "ticker": "NVB"
+  },
+  {
+    "company": "OCB (Ngân hàng TMCP Phương Đông)",
+    "ticker": "OCB"
+  },
+  {
+    "company": "PGbank (Ngân hàng TMCP Xăng Dầu Petrolimex)",
+    "ticker": "PGB"
+  },
+  {
+    "company": "Saigon Bank (TMCP Sài Gòn Công thương)",
+    "ticker": "SGB"
+  },
+  {
+    "company": "SHB (Ngân hàng TMCP Sài Gòn - Hà Nội)",
+    "ticker": "SHB"
+  },
+  {
+    "company": "SeABank (Ngân hàng TMCP Đông Nam Á)",
+    "ticker": "SSB"
+  },
+  {
+    "company": "Sacombank (Ngân hàng TMCP Sài Gòn Thương Tín)",
+    "ticker": "STB"
+  },
+  {
+    "company": "Techcombank (Ngân hàng TMCP Kỹ Thương Việt Nam)",
+    "ticker": "TCB"
+  },
+  {
+    "company": "TPBank (Ngân hàng TMCP Tiên Phong)",
+    "ticker": "TPB"
+  },
+  {
+    "company": "VietABank (Ngân hàng TMCP Việt Á)",
+    "ticker": "VAB"
+  },
+  {
+    "company": "Vietbank (Ngân hàng TMCP Việt Nam Thương Tín)",
+    "ticker": "VBB"
+  },
+  {
+    "company": "Vietcombank (Ngân hàng TMCP Ngoại thương Việt Nam)",
+    "ticker": "VCB"
+  },
+  {
+    "company": "VIB (Ngân hàng TMCP Việt Nam Thịnh Vượng)",
+    "ticker": "VIB"
+  },
+  {
+    "company": "VPBank (Ngân hàng TMCP Việt Nam Thịnh Vượng)",
+    "ticker": "VIB"
+  },
+  {
+    "company": "CTCP chứng khoán Agribank - HOSE",
+    "ticker": "AGR"
+  },
+  {
+    "company": "CTCP Chứng khoán APG",
+    "ticker": "APG"
+  },
+  {
+    "company": "CTCP Chứng khoán Châu Á Thái Bình Dương - HNX",
+    "ticker": "APS"
+  },
+  {
+    "company": "CTCP Chứng khoán BOS - HNX",
+    "ticker": "ART"
+  },
+  {
+    "company": "CTCP Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam - HOSE",
+    "ticker": "BSI"
+  },
+  {
+    "company": "CTCP Chứng khoán Bảo Việt - HNX",
+    "ticker": "BVS"
+  },
+  {
+    "company": "CTCP Chứng khoán Ngân hàng Công thương Việt Nam - HOSE",
+    "ticker": "CTS"
+  },
+  {
+    "company": "CTCP Chứng khoán Everest - HNX",
+    "ticker": "EVS"
+  },
+  {
+    "company": "CTCP Chứng khoán FPT - HOSE",
+    "ticker": "FTS"
+  },
+  {
+    "company": "CTCP Chứng khoán Hòa Bình - HNX",
+    "ticker": "HBS"
+  },
+  {
+    "company": "CTCP Chứng khoán Thành phố Hồ Chí Minh - HOSE",
+    "ticker": "HCM"
+  },
+  {
+    "company": "CTCP Chứng khoán Đầu tư Việt Nam - HNX",
+    "ticker": "IVS"
+  },
+  {
+    "company": "CTCP Chứng khoán MB - HNX",
+    "ticker": "MBS"
+  },
+  {
+    "company": "CTCP Chứng khoán Dầu khí - HNX",
+    "ticker": "PSI"
+  },
+  {
+    "company": "CTCP Chứng khoán Sài Gòn – Hà Nội - HNX",
+    "ticker": "SHS"
+  },
+  {
+    "company": "CTCP Chứng khoán SSI - HOSE",
+    "ticker": "SSI"
+  },
+  {
+    "company": "CTCP Chứng khoán Trí Việt",
+    "ticker": "TVB"
+  },
+  {
+    "company": "CTCP Chứng khoán Thiên Việt - HOSE",
+    "ticker": "TVS"
+  },
+  {
+    "company": "CTCP Chứng khoán Bản Việt - HOSE",
+    "ticker": "VCI"
+  },
+  {
+    "company": "CTCP Chứng khoán Rồng Việt - HOSE",
+    "ticker": "VDS"
+  },
+  {
+    "company": "CTCP Chứng khoán Thương mại và Công nghiệp Việt Nam - HNX",
+    "ticker": "VIG"
+  },
+  {
+    "company": "CTCP Chứng khoán VIX - HOSE",
+    "ticker": "VIX"
+  },
+  {
+    "company": "CTCP Chứng khoán VNDirect - HOSE",
+    "ticker": "VND"
+  },
+  {
+    "company": "CTCP Chứng khoán Phố Wall - HNX",
+    "ticker": "WSS"
+  },
+  {
+    "company": "CTCP Thủy Điện A Vương - UPCOM",
+    "ticker": "AVC"
+  },
+  {
+    "company": "CTCP Thủy điện Bắc Hà - UPCOM",
+    "ticker": "BHA"
+  },
+  {
+    "company": "CTCP Thủy điện Buôn Đôn - UPCOM",
+    "ticker": "BSA"
+  },
+  {
+    "company": "CTCP Nhiệt điện Bà Rịa - HOSE",
+    "ticker": "BTP"
+  },
+  {
+    "company": "CTCP Thủy điện miền Trung - HOSE",
+    "ticker": "CHP"
+  },
+  {
+    "company": "CTCP Điện Cơ Hải Phòng - HNX",
+    "ticker": "DHP"
+  },
+  {
+    "company": "CTCP Điện nước An Giang - UPCOM",
+    "ticker": "DNA"
+  },
+  {
+    "company": "CTCP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi - UPCOM",
+    "ticker": "DNH"
+  },
+  {
+    "company": "CTCP Thủy điện – Điện lực 3 - HOSE",
+    "ticker": "DRL"
+  },
+  {
+    "company": "CTCP Đầu tư Năng lượng Đại Trường Thành Holdings",
+    "ticker": "DTE"
+  },
+  {
+    "company": "Tổng công ty Điện lực TKV – CTCP - HNX",
+    "ticker": "DTK"
+  },
+  {
+    "company": "CTCP Thủy điện Điện lực Đắk Lắk - UPCOM",
+    "ticker": "EAD"
+  },
+  {
+    "company": "CTCP Điện Bắc Nà - HNX",
+    "ticker": "EBA"
+  },
+  {
+    "company": "CTCP EVN Quốc tế - UPCOM",
+    "ticker": "EIC"
+  },
+  {
+    "company": "Tổng công ty Phát điện 2 – Công ty TNHH MTV - UPCOM",
+    "ticker": "GE2"
+  },
+  {
+    "company": "CTCP Điện Gia Lai - HOSE",
+    "ticker": "GEG"
+  },
+  {
+    "company": "CTCP Thủy điện Gia Lai - UPCOM",
+    "ticker": "GHC"
+  },
+  {
+    "company": "CTCP Thủy điện Hương Sơn - UPCOM",
+    "ticker": "GSM"
+  },
+  {
+    "company": "CTCP Thủy điện Nậm Mu - HNX",
+    "ticker": "HJS"
+  },
+  {
+    "company": "CTCP Điện chiếu sáng Hải Phòng - UPCOM",
+    "ticker": "HLE"
+  },
+  {
+    "company": "CTCP Thủy điện Hủa Na - UPCOM",
+    "ticker": "HNA"
+  },
+  {
+    "company": "CTCP Nhiệt điện Hải Phòng - UPCOM",
+    "ticker": "HND"
+  },
+  {
+    "company": "Công ty CTCP Thủy điện Đăk Đoa - UPCOM",
+    "ticker": "HPD"
+  },
+  {
+    "company": "CTCP Thủy điện Srok Phu Miêng IDICO - UPCOM",
+    "ticker": "ISH"
+  },
+  {
+    "company": "CTCP Điện lực Khánh Hòa - HOSE",
+    "ticker": "KHP"
+  },
+  {
+    "company": "CTCP Nhiệt điện Ninh Bình - HNX",
+    "ticker": "NBP"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Điện Miền Bắc 2 - UPCOM",
+    "ticker": "ND2"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Điện Tây Bắc - UPCOM",
+    "ticker": "NED"
+  },
+  {
+    "company": "CTCP Điện lực Dầu khí Nhơn Trạch 2 - HOSE",
+    "ticker": "NT2"
+  },
+  {
+    "company": "CTCP thủy điện Nước Trong - HNX",
+    "ticker": "NTH"
+  },
+  {
+    "company": "CTCP Tập đoàn PC1 - HOSE",
+    "ticker": "PC1"
+  },
+  {
+    "company": "Tổng Công ty Phát điện 3 – CTCP - UPCOM",
+    "ticker": "PGV"
+  },
+  {
+    "company": "CTCP Đầu tư Điện lực 3 - HNX",
+    "ticker": "PIC"
+  },
+  {
+    "company": "Tổng Công ty Điện lực Dầu khí Việt Nam – CTCP - HOSE",
+    "ticker": "POW"
+  },
+  {
+    "company": "CTCP Nhiệt điện Phả Lại - HOSE",
+    "ticker": "PPC"
+  },
+  {
+    "company": "CTCP Thủy điện Quế Phong- UPCOM",
+    "ticker": "QPH"
+  },
+  {
+    "company": "CTCP Nhiệt điện Quảng Ninh - UPCOM",
+    "ticker": "QTP"
+  },
+  {
+    "company": "CTCP Thủy điện Sê San 4A - HOSE",
+    "ticker": "S4A"
+  },
+  {
+    "company": "CTCP Sông Ba - HOSE",
+    "ticker": "SBA"
+  },
+  {
+    "company": "CTCP Thủy điện Sông Ba Hạ - UPCOM",
+    "ticker": "SBH"
+  },
+  {
+    "company": "CTCP Đầu tư Phát triển Bắc Minh - UPCOM",
+    "ticker": "SBM"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Điện miền Trung - HNX",
+    "ticker": "SEB"
+  },
+  {
+    "company": "CTCP Thủy điện Miền Nam - HOSE",
+    "ticker": "SHP"
+  },
+  {
+    "company": "CTCP Thủy điện Cần Đơn - HOSE",
+    "ticker": "SJD"
+  },
+  {
+    "company": "CTCP Thủy điện Sử Pán 2 - UPCOM",
+    "ticker": "SP2"
+  },
+  {
+    "company": "CTCP Thủy điện Sông Vàng - UPCOM",
+    "ticker": "SVH"
+  },
+  {
+    "company": "CTCP Thủy điện Thác Bà - HOSE",
+    "ticker": "TBC"
+  },
+  {
+    "company": "Tổng Công ty Thiết bị Điện Đông Anh – CTCP - UPCOM",
+    "ticker": "TBD"
+  },
+  {
+    "company": "CTCP Thủy điện Định Bình - UPCOM",
+    "ticker": "TDB"
+  },
+  {
+    "company": "CTCP Đầu tư Điện Tây Nguyên - HOSE",
+    "ticker": "TIC"
+  },
+  {
+    "company": "CTCP Thủy điện Thác Mơ - HOSE",
+    "ticker": "TMP"
+  },
+  {
+    "company": "CTCP Đầu tư Xây dựng và Phát triển Trường Thành - HSX",
+    "ticker": "TTA"
+  },
+  {
+    "company": "CTCP Đầu tư Năng lượng Trường Thịnh - HOSE",
+    "ticker": "TTE"
+  },
+  {
+    "company": "CTCP Tư vấn Xây dựng Điện 2 - HOSE",
+    "ticker": "TV2"
+  },
+  {
+    "company": "CTCP Xây dựng và Năng lượng VCP - HOSE",
+    "ticker": "VCP"
+  },
+  {
+    "company": "Tổng CTCP Xây dựng điện Việt Nam - HOSE",
+    "ticker": "VNE"
+  },
+  {
+    "company": "CTCP Phát triển Điện lực Việt Nam - HSX",
+    "ticker": "VPD"
+  },
+  {
+    "company": "CTCP Thủy điện Vĩnh Sơn – Sông Hinh - HOSE",
+    "ticker": "VSH"
+  },
+  {
+    "company": "CTCP Alphanam E&C - HNX",
+    "ticker": "AME"
+  },
+  {
+    "company": "CTCP Chế tạo biến thế và Vật liệu điện Hà Nội - UPCOM",
+    "ticker": "BTH"
+  },
+  {
+    "company": "CTCP Dây cáp điện Việt Nam - HOSE",
+    "ticker": "CAV"
+  },
+  {
+    "company": "CTCP Cơ điện Miền Trung",
+    "ticker": "CJC"
+  },
+  {
+    "company": "CTCP Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương - HNX",
+    "ticker": "DDG"
+  },
+  {
+    "company": "CTCP Điện cơ Hải Phòng - HNX",
+    "ticker": "DHP"
+  },
+  {
+    "company": "CTCP Cơ điện Thủ Đức - HOSE",
+    "ticker": "EMC"
+  },
+  {
+    "company": "CTCP Thiết bị Phụ tùng Cơ điện - UPCOM",
+    "ticker": "EMG"
+  },
+  {
+    "company": "CTCP Thiết bị điện Gelex - UPCOM",
+    "ticker": "GEE"
+  },
+  {
+    "company": "CTCP Tập đoàn GELEX - HOSE",
+    "ticker": "GEX"
+  },
+  {
+    "company": "CTCP Chế tạo Điện cơ Hà Nội - UPCOM",
+    "ticker": "HEM"
+  },
+  {
+    "company": "CTCP Sứ kỹ thuật Hoàng Liên Sơn - UPCOM",
+    "ticker": "HLS"
+  },
+  {
+    "company": "CTCP K.I.P Việt Nam - UPCOM",
+    "ticker": "KIP"
+  },
+  {
+    "company": "CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam - HNX",
+    "ticker": "PPS"
+  },
+  {
+    "company": "Tổng Công ty Thiết bị điện Đông Anh - CTCP - UPCOM",
+    "ticker": "TBD"
+  },
+  {
+    "company": "CTCP Trường Phú - UPCOM",
+    "ticker": "TGP"
+  },
+  {
+    "company": "CTCP Thiết bị điện - HOSE",
+    "ticker": "THI"
+  },
+  {
+    "company": "CTCP Ắc quy Tia Sáng - HNX",
+    "ticker": "TSB"
+  },
+  {
+    "company": "CTCP Dây và Cáp điện Taya Việt Nam - HOSE",
+    "ticker": "TYA"
+  },
+  {
+    "company": "Tổng CTCP Điện tử và Tin học Việt Nam - UPCOM",
+    "ticker": "VEC"
+  },
+  {
+    "company": "CTCP Dây cáp điện Việt Thái - HNX",
+    "ticker": "VTH"
+  },
+  {
+    "company": "CTCP Tập đoàn Dầu khí An Pha - HOSE",
+    "ticker": "ASP"
+  },
+  {
+    "company": "CTCP Lọc Hóa dầu Bình Sơn - UPCOM",
+    "ticker": "BSR"
+  },
+  {
+    "company": "CTCP CNG Việt Nam - HOSE",
+    "ticker": "CNG"
+  },
+  {
+    "company": "Tổng Công ty Khí Việt Nam-CTCP - HOSE",
+    "ticker": "GAS"
+  },
+  {
+    "company": "CTCP Vận tải Sản phẩm Khí Quốc tế",
+    "ticker": "GSP"
+  },
+  {
+    "company": "CTCP Xăng dầu HFC - UPCOM",
+    "ticker": "HFC"
+  },
+  {
+    "company": "CTCP Điện lực Dầu khí Nhơn Trạch 2 - HOSE",
+    "ticker": "NT2"
+  },
+  {
+    "company": "Tổng Công ty Dầu Việt Nam – CTCP - UPCOM",
+    "ticker": "OIL"
+  },
+  {
+    "company": "CTCP Điện lực Dầu khí Bắc Kạn - UPCOM",
+    "ticker": "PBK"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Gas Đô Thị - HNX",
+    "ticker": "PCG"
+  },
+  {
+    "company": "Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp - UPCOM",
+    "ticker": "PDT"
+  },
+  {
+    "company": "CTCP Vận tải dầu Phương Đông Việt - UPCOM",
+    "ticker": "PDV"
+  },
+  {
+    "company": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư – CTCP - UPCOM",
+    "ticker": "PEG"
+  },
+  {
+    "company": "CTCP Thiết bị Xăng dầu Petrolimex - UPCOM",
+    "ticker": "PEQ"
+  },
+  {
+    "company": "Tổng Công ty Gas Petrolimex-CTCP - HOSE",
+    "ticker": "PGC"
+  },
+  {
+    "company": "CTCP Phân phối Khí thấp áp Dầu khí Việt Nam - HOSE",
+    "ticker": "PGD"
+  },
+  {
+    "company": "CTCP Kinh doanh Khí Miền Nam - HNX",
+    "ticker": "PGS"
+  },
+  {
+    "company": "CTCP Đầu tư Điện lực 3 - HNX",
+    "ticker": "PIC"
+  },
+  {
+    "company": "CTCP Thương mại và Vận tải Petrolimex Hà Nội - HNX",
+    "ticker": "PJC"
+  },
+  {
+    "company": "Tổng Công ty Hóa dầu Petrolimex – CTCP",
+    "ticker": "PLC"
+  },
+  {
+    "company": "Tập đoàn Xăng dầu Việt Nam - HOSE",
+    "ticker": "PLX"
+  },
+  {
+    "company": "CTCP Đầu tư và Sản xuất Petro Miền Trung - HOSE",
+    "ticker": "PMG"
+  },
+  {
+    "company": "CTCP Xăng dầu Dầu khí Thái Bình - UPCOM",
+    "ticker": "POB"
+  },
+  {
+    "company": "CTCP Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC - UPCOM",
+    "ticker": "POS"
+  },
+  {
+    "company": "CTCP Xăng dầu Dầu khí Vũng Áng - UPCOM",
+    "ticker": "POV"
+  },
+  {
+    "company": "Tổng Công ty Điện lực Dầu khí Việt Nam – CTCP - HOSE",
+    "ticker": "POW"
+  },
+  {
+    "company": "CTCP Petro Times - HNX",
+    "ticker": "PPT"
+  },
+  {
+    "company": "CTCP Xăng dầu Dầu khí Phú Yên - HNX",
+    "ticker": "PPY"
+  },
+  {
+    "company": "CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC - UPCOM",
+    "ticker": "PQN"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn - HNX",
+    "ticker": "PSC"
+  },
+  {
+    "company": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu - HSX",
+    "ticker": "PSH"
+  },
+  {
+    "company": "CTCP Cảng dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa - UPCOM",
+    "ticker": "PSN"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Hà Tây - UPCOM",
+    "ticker": "PTH"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng - HNX",
+    "ticker": "PTS"
+  },
+  {
+    "company": "CTCP Vận tải Dầu khí Đông Dương - UPCOM",
+    "ticker": "PTT"
+  },
+  {
+    "company": "CTCP Thương mại Dầu khí - UPCOM",
+    "ticker": "PTV"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh - UPCOM",
+    "ticker": "PTX"
+  },
+  {
+    "company": "CTCP Bọc Ống Dầu khí Việt Nam - HNX",
+    "ticker": "PVB"
+  },
+  {
+    "company": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí – CTCP (PVChem)",
+    "ticker": "PVC"
+  },
+  {
+    "company": "Tổng CTCP Khoan và Dịch vụ Khoan Dầu khí - HOSE",
+    "ticker": "PVD"
+  },
+  {
+    "company": "Tổng Công ty Tư vấn thiết kế Dầu khí - UPCOM",
+    "ticker": "PVE"
+  },
+  {
+    "company": "CTCP Kinh doanh LPG Việt Nam - HNX",
+    "ticker": "PVG"
+  },
+  {
+    "company": "CTCP Máy – Thiết bị Dầu khí - UPCOM",
+    "ticker": "PVM"
+  },
+  {
+    "company": "CTCP Vận tải dầu khí Thái Bình Dương - UPCOM",
+    "ticker": "PVP"
+  },
+  {
+    "company": "Tổng CTCP Dịch vụ Kỹ thuật Dầu khí Việt Nam - HNX",
+    "ticker": "PVS"
+  },
+  {
+    "company": "Tổng CTCP Vận tải Dầu khí - HOSE",
+    "ticker": "PVT"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Điện miền Trung - HNX",
+    "ticker": "SEB"
+  },
+  {
+    "company": "CTCP Phát triển năng lượng Sơn Hà - HNX",
+    "ticker": "SHE"
+  },
+  {
+    "company": "CTCP Đầu tư TDG GLOBAL - HSX",
+    "ticker": "TDG"
+  },
+  {
+    "company": "CTCP Dịch vụ biển Tân Cảng - UPCOM",
+    "ticker": "TOS"
+  },
+  {
+    "company": "CTCP Thương mại và Dịch vụ Dầu khí Vũng Tàu - UPCOM",
+    "ticker": "VMG"
+  },
+  {
+    "company": "CTCP Vận tải Xăng dầu VITACO - HOSE",
+    "ticker": "VTO"
+  },
+  {
+    "company": "CTCP Suất ăn Công nghiệp Atesco- UPCOM",
+    "ticker": "ATS"
+  },
+  {
+    "company": "CTCP Du lịch & Thương mại Bằng Giang Cao Bằng- UPCOM",
+    "ticker": "BCV"
+  },
+  {
+    "company": "CTCP Vận tải Dịch vụ LIên Ninh - UPCOM",
+    "ticker": "BLN"
+  },
+  {
+    "company": "CTCP Dịch vụ Đô thị Bà Rịa- UPCOM",
+    "ticker": "BRS"
+  },
+  {
+    "company": "CTCP Dịch vụ Bến Thành- UPCOM",
+    "ticker": "BSC"
+  },
+  {
+    "company": "CTCP Xe khách Sài Gòn - UPCOM",
+    "ticker": "BSG"
+  },
+  {
+    "company": "CTCP Dịch vụ Du lịch Bến Thành- UPCOM",
+    "ticker": "BTV"
+  },
+  {
+    "company": "CTCP CMVIETNAM- HNX",
+    "ticker": "CMS"
+  },
+  {
+    "company": "CTCP Phục vụ Mai táng Hải Phòng- UPCOM",
+    "ticker": "CPH"
+  },
+  {
+    "company": "CTCP Gia Lai CTC",
+    "ticker": "CTC"
+  },
+  {
+    "company": "CTCP Xe khách Hà Nội",
+    "ticker": "CXH"
+  },
+  {
+    "company": "CTCP Tập đoàn Khách sạn Đông Á",
+    "ticker": "DAH"
+  },
+  {
+    "company": "CTCP Xe lửa Dĩ An",
+    "ticker": "DAR"
+  },
+  {
+    "company": "CTCP Đường bộ Hải Phòng",
+    "ticker": "DBH"
+  },
+  {
+    "company": "CTCP Tập đoàn Năng lượng Tái tạo Việt Nam",
+    "ticker": "DL1"
+  },
+  {
+    "company": "CTCP Du lịch Đắk Lắk",
+    "ticker": "DLD"
+  },
+  {
+    "company": "CTCP Du lịch và Thương mại – Vinacomin",
+    "ticker": "DLT"
+  },
+  {
+    "company": "CTCP Du lịch Đồng Nai",
+    "ticker": "DNT"
+  },
+  {
+    "company": "CTCP Công viên nước Đầm Sen",
+    "ticker": "DSN"
+  },
+  {
+    "company": "CTCP Dịch vụ Du lịch Phú Thọ",
+    "ticker": "DSP"
+  },
+  {
+    "company": "CTCP Đầu tư Đức Trung - UPCOM",
+    "ticker": "DTI"
+  },
+  {
+    "company": "CTCP Du Lịch và Xuất nhập khẩu Lạng Sơn",
+    "ticker": "DXL"
+  },
+  {
+    "company": "CTCP Đầu tư – Thương mại – Dịch vụ Điện Lực",
+    "ticker": "EIN"
+  },
+  {
+    "company": "CTCP Thuận Thảo - UPCOM",
+    "ticker": "GTT"
+  },
+  {
+    "company": "CTCP Dịch vụ Ô tô Hàng Xanh",
+    "ticker": "HAX"
+  },
+  {
+    "company": "CTCP Dịch vụ Giải trí Hà Nội",
+    "ticker": "HES"
+  },
+  {
+    "company": "CTCP Hoàng Hà - HNX",
+    "ticker": "HHG"
+  },
+  {
+    "company": "CTCP Xe điện Hà Nội",
+    "ticker": "HNT"
+  },
+  {
+    "company": "CTCP Du lịch Dịch vụ Hội An",
+    "ticker": "HOT"
+  },
+  {
+    "company": "CTCP Vận tải đường sắt Hà Nội - UPCOM",
+    "ticker": "HRT"
+  },
+  {
+    "company": "Tổng Công ty Hàng không Việt Nam Vietnam Airlines",
+    "ticker": "HVN"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS - HNX",
+    "ticker": "KLF"
+  },
+  {
+    "company": "CTCP Thương mại Kiên Giang - UPCOM",
+    "ticker": "KTC"
+  },
+  {
+    "company": "CTCP Dịch vụ hàng không sân bay Đà Nẵng - HNX",
+    "ticker": "MAS"
+  },
+  {
+    "company": "CTCP Dịch vụ Du lịch Mỹ Trà",
+    "ticker": "MTC"
+  },
+  {
+    "company": "CTCP Môi trường và Dịch vụ Đô Thị Vĩnh Yên",
+    "ticker": "MVY"
+  },
+  {
+    "company": "CTCP Bất động sản Du lịch Ninh Vân Bay",
+    "ticker": "NVT"
+  },
+  {
+    "company": "CTCP Vận tải Newway - UPCOM",
+    "ticker": "NWT"
+  },
+  {
+    "company": "CTCP Khách sạn và Dịch vụ OCH",
+    "ticker": "OCH"
+  },
+  {
+    "company": "CTCP Dịch vụ Một Thế Giới - UPCOM",
+    "ticker": "ONW"
+  },
+  {
+    "company": "CTCP Tập đoàn Pan",
+    "ticker": "PAN"
+  },
+  {
+    "company": "CTCP Du lịch Dầu khí Phương Đông",
+    "ticker": "PDC"
+  },
+  {
+    "company": "CTCP PGT Holdings - HNX",
+    "ticker": "PGT"
+  },
+  {
+    "company": "CTCP QUốc tế Hoàng Gia - HOSE",
+    "ticker": "RIC"
+  },
+  {
+    "company": "CTCP Dịch vụ hàng hóa Sài Gòn - HOSE",
+    "ticker": "SCS"
+  },
+  {
+    "company": "CTCP Khách sạn Sài Gòn",
+    "ticker": "SGH"
+  },
+  {
+    "company": "CTCP Sài Gòn Hỏa xa - UPCOM",
+    "ticker": "SHX"
+  },
+  {
+    "company": "CTCP Tàu cao tốc Superdong – Kiên Giang",
+    "ticker": "SKG"
+  },
+  {
+    "company": "CTCP Vận tải Đường sắt Sài Gòn - UPCOM",
+    "ticker": "SRT"
+  },
+  {
+    "company": "CTCP Vận chuyển Sài Gòn Tourist - UPCOM",
+    "ticker": "STT"
+  },
+  {
+    "company": "CTCP Cáp treo Núi Bà Tây Ninh",
+    "ticker": "TCT"
+  },
+  {
+    "company": "CTCP Bến bãi Vận tải Sài Gòn - UPCOM",
+    "ticker": "TPS"
+  },
+  {
+    "company": "CTCP Vận tải 1 Traco - UPCOM",
+    "ticker": "TR1"
+  },
+  {
+    "company": "CTCP Du lịch Trường Sơn Coecco - UPCOM",
+    "ticker": "TSD"
+  },
+  {
+    "company": "CTCP Du lịch Dịch vụ Hà Nội - UPCOM",
+    "ticker": "TSJ"
+  },
+  {
+    "company": "CTCP Du lịch - Thương mại Tây Ninh - HNX",
+    "ticker": "TTT"
+  },
+  {
+    "company": "CTCP Nhân lực và Thương mại Vinaconex",
+    "ticker": "VCM"
+  },
+  {
+    "company": "CTCP Trung tâm Hội chợ Triển lãm Việt Nam",
+    "ticker": "VEF"
+  },
+  {
+    "company": "CTCP Du lịch Quốc tế Vũng Tàu",
+    "ticker": "VIR"
+  },
+  {
+    "company": "CTCP Hàng không Vietjet",
+    "ticker": "VJC"
+  },
+  {
+    "company": "CTCP Du lịch Thành Thành Công",
+    "ticker": "VNG"
+  },
+  {
+    "company": "CTCP Ánh Dương Việt Nam",
+    "ticker": "VNS"
+  },
+  {
+    "company": "CTCP Du lịch Vietourist - UPCOM",
+    "ticker": "VTD"
+  },
+  {
+    "company": "CTCP Du lịch Tỉnh Bà Rịa – Vũng Tàu - HOSE",
+    "ticker": "VTG"
+  },
+  {
+    "company": "CTCP Vận tải và đưa đón thợ mỏ - Vinacomin - UPCOM",
+    "ticker": "VTM"
+  },
+  {
+    "company": "CTCP Du lịch và tiếp thị giao thông vận tải Việt Nam - UPCOM",
+    "ticker": "VTR"
+  },
+  {
+    "company": "CTCP Tiên Sơn Thanh Hóa",
+    "ticker": "AAT"
+  },
+  {
+    "company": "CTCP Đầu tư Nhãn Hiệu Việt",
+    "ticker": "ABR"
+  },
+  {
+    "company": "CTCP Đầu tư và Khoáng sản FLC STONE",
+    "ticker": "AMD"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Taseco",
+    "ticker": "AST"
+  },
+  {
+    "company": "CTCP Dịch vụ Bến Thành",
+    "ticker": "BSC"
+  },
+  {
+    "company": "CTCP Thương mại – Dịch vụ Bến Thành - HSX",
+    "ticker": "BTT"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu và đầu tư Chợ Lớn (Cholimex)",
+    "ticker": "CLX"
+  },
+  {
+    "company": "CTCP Thương nghiệp Cà Mau - HSX",
+    "ticker": "CMV"
+  },
+  {
+    "company": "CTCP Vật tư – Xăng dầu",
+    "ticker": "COM"
+  },
+  {
+    "company": "CTCP Phục vụ mai táng Hải Phòng",
+    "ticker": "CPH"
+  },
+  {
+    "company": "CTCP City Auto - HSX",
+    "ticker": "CTF"
+  },
+  {
+    "company": "CTCP Thế giới số - HSX",
+    "ticker": "DGW"
+  },
+  {
+    "company": "CTCP Bán lẻ Kỹ thuật số FPT - HSX",
+    "ticker": "FRT"
+  },
+  {
+    "company": "CTCP Petec Bình Định",
+    "ticker": "GCB"
+  },
+  {
+    "company": "CTCP Dịch vụ Ô tô Hàng Xanh - HSX",
+    "ticker": "HAX"
+  },
+  {
+    "company": "CTCP Sản xuất – Xuất nhập khẩu Thanh Hà",
+    "ticker": "HFX"
+  },
+  {
+    "company": "CTCP Thương mại Hóc Môn",
+    "ticker": "HTC"
+  },
+  {
+    "company": "CTCP Thương mại Hóc Môn - HNX",
+    "ticker": "HTC"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS",
+    "ticker": "KLF"
+  },
+  {
+    "company": "CTCP Thương mại Kiên Giang",
+    "ticker": "KTC"
+  },
+  {
+    "company": "CTCP Thương mại – Đầu tư Long Biên",
+    "ticker": "LBC"
+  },
+  {
+    "company": "CTCP Landmark Holding",
+    "ticker": "LMH"
+  },
+  {
+    "company": "CTCP Tập đoàn Masan - HSX",
+    "ticker": "MSN"
+  },
+  {
+    "company": "CTCP Đầu tư Thế giới Di động - HSX",
+    "ticker": "MWG"
+  },
+  {
+    "company": "Tổng CTCP Dịch vụ Tổng hợp Dầu khí",
+    "ticker": "PET"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Petrolimex",
+    "ticker": "PIT"
+  },
+  {
+    "company": "CTCP PIV",
+    "ticker": "PIV"
+  },
+  {
+    "company": "CTCP Thương mại Phú Nhuận",
+    "ticker": "PNG"
+  },
+  {
+    "company": "CTCP Vàng bạc Đá quý Phú Nhuận - HSX",
+    "ticker": "PNJ"
+  },
+  {
+    "company": "CTCP Dịch vụ Phân phối Tổng hợp Dầu khí",
+    "ticker": "PSD"
+  },
+  {
+    "company": "CTCP Nhiên liệu Sài Gòn",
+    "ticker": "SFC"
+  },
+  {
+    "company": "CTCP Đầu tư Phát triển Sài Gòn Co.op",
+    "ticker": "SID"
+  },
+  {
+    "company": "CTCP Siêu Thanh",
+    "ticker": "ST8"
+  },
+  {
+    "company": "CTCP Thương mại dịch vụ Tràng Thi",
+    "ticker": "T12"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Tổng hợp I Việt Nam",
+    "ticker": "TH1"
+  },
+  {
+    "company": "CTCP Thanh Hoa – Sông Đà",
+    "ticker": "THS"
+  },
+  {
+    "company": "CTCP Thương Mại Xuất Nhập Khẩu Thủ Đức",
+    "ticker": "TMC"
+  },
+  {
+    "company": "CTCP Thương mại Xuất nhập khẩu Thủ Đức - HNX",
+    "ticker": "TMC"
+  },
+  {
+    "company": "CTCP Phân phối Top One",
+    "ticker": "TOP"
+  },
+  {
+    "company": "CTCP Thương mại và Đầu tư Vi na ta ba",
+    "ticker": "VTJ"
+  },
+  {
+    "company": "CTCP Hàng tiêu dùng Masan - UPCOM",
+    "ticker": "MCH"
+  },
+  {
+    "company": "CTCP Xây dựng 47 - HSX",
+    "ticker": "C47"
+  },
+  {
+    "company": "CTCP Tập đoàn CIENCO4 - UPCOM",
+    "ticker": "C4G"
+  },
+  {
+    "company": "CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh - HSX",
+    "ticker": "CII"
+  },
+  {
+    "company": "CTCP Xây dựng COTECCONS - HSX",
+    "ticker": "CTD"
+  },
+  {
+    "company": "CTCP Đầu tư Phát triển Cường Thuận IDICO - HSX",
+    "ticker": "CTI"
+  },
+  {
+    "company": "Tổng CTCP Công trình Viettel - HSX",
+    "ticker": "CTR"
+  },
+  {
+    "company": "CTCP Tập đoàn Đạt Phương - HSX",
+    "ticker": "DPG"
+  },
+  {
+    "company": "CTCP Tập đoàn Everland - HSX",
+    "ticker": "EVG"
+  },
+  {
+    "company": "CTCP FECON - HSX",
+    "ticker": "FCN"
+  },
+  {
+    "company": "Tổng CTCP G36 - UPCOM",
+    "ticker": "G36"
+  },
+  {
+    "company": "CTCP Tập đoàn Xây dựng Hòa Bình - HSX",
+    "ticker": "HBC"
+  },
+  {
+    "company": "CTCP Đầu tư Hạ tầng Giao thông Đèo Cả - HSX",
+    "ticker": "HHV"
+  },
+  {
+    "company": "CTCP Hưng Thịnh Incons - HSX",
+    "ticker": "HTN"
+  },
+  {
+    "company": "CTCP Xây lắp Thừa Thiên Huế - HSX",
+    "ticker": "HUB"
+  },
+  {
+    "company": "CTCP Xây lắp Thừa Thiên Huế",
+    "ticker": "HUB"
+  },
+  {
+    "company": "CTCP Tasco - HNX",
+    "ticker": "HUT"
+  },
+  {
+    "company": "CTCP Licogi 16 - HSX",
+    "ticker": "LCG"
+  },
+  {
+    "company": "CTCP Đầu tư MST - HNX",
+    "ticker": "MST"
+  },
+  {
+    "company": "CTCP Tập đoàn đầu tư Din Capital - HNX",
+    "ticker": "PDB"
+  },
+  {
+    "company": "CTCP Xây dựng FLC FAROS - HSX",
+    "ticker": "ROS"
+  },
+  {
+    "company": "CTCP SCI - HNX",
+    "ticker": "S99"
+  },
+  {
+    "company": "CTCP SCI E&C - HNX",
+    "ticker": "SCI"
+  },
+  {
+    "company": "CTCP Xây dựng số 9 - HNX",
+    "ticker": "VC9"
+  },
+  {
+    "company": "Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam - HSX",
+    "ticker": "VCG"
+  },
+  {
+    "company": "Cổ phiếu của CTCP Group Bắc Việt",
+    "ticker": "BVG"
+  },
+  {
+    "company": "Cổ phiếu của CTCP Thép Đà Nẵng",
+    "ticker": "DNS"
+  },
+  {
+    "company": "CTCP Thép DANA – Ý",
+    "ticker": "DNY"
+  },
+  {
+    "company": "CTCP Đại Thiên Lộc",
+    "ticker": "DTL"
+  },
+  {
+    "company": "CTCP Hữu Liên Á Châu",
+    "ticker": "HLA"
+  },
+  {
+    "company": "CTCP Kim khí Thành phố Hồ Chí Minh – Vnstee",
+    "ticker": "HMC"
+  },
+  {
+    "company": "Cổ phiếu thép Hòa Phát",
+    "ticker": "HPG"
+  },
+  {
+    "company": "Cổ phiếu thép Hoa Sen",
+    "ticker": "HSG"
+  },
+  {
+    "company": "CTCP gang thép Hà Nội",
+    "ticker": "HSV"
+  },
+  {
+    "company": "CTCP Kim Khí KKC",
+    "ticker": "KKC"
+  },
+  {
+    "company": "CTCP Kim Khí KKC",
+    "ticker": "KKC"
+  },
+  {
+    "company": "CTCP Kim khí Miền Trung",
+    "ticker": "KMT"
+  },
+  {
+    "company": "CTCP Thép Mê Lin",
+    "ticker": "MEL"
+  },
+  {
+    "company": "CTCP Vật tư TKV",
+    "ticker": "MTS"
+  },
+  {
+    "company": "Cổ phiếu thép Nam Kim",
+    "ticker": "NKG"
+  },
+  {
+    "company": "Cổ phiếu Thép Pomina",
+    "ticker": "POM"
+  },
+  {
+    "company": "Cổ phiếu S99 – CTCP",
+    "ticker": "SCI"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại SMC",
+    "ticker": "SMC"
+  },
+  {
+    "company": "Cổ phiếu của CTCP Chế tạo kết cấu Thép Vneco SSM",
+    "ticker": "SSM"
+  },
+  {
+    "company": "CTCP Thép Thủ Đức",
+    "ticker": "TDS"
+  },
+  {
+    "company": "Cổ phiếu gang thép Thái Nguyên",
+    "ticker": "TIS"
+  },
+  {
+    "company": "Cổ phiếu thép Tiến Lên",
+    "ticker": "TLH"
+  },
+  {
+    "company": "CTCP Thép Nhà Bè – VNSTEEL",
+    "ticker": "TNB"
+  },
+  {
+    "company": "Cổ phiếu của CTCP Thép tấm lá Thống Nhất",
+    "ticker": "TNS"
+  },
+  {
+    "company": "CTCP Cán Thép Thái Trung",
+    "ticker": "TTS"
+  },
+  {
+    "company": "Cổ phiếu tổng công ty thép Việt Nam",
+    "ticker": "TVN"
+  },
+  {
+    "company": "CTCP Thép VICASA – VNSTEEL",
+    "ticker": "VCA"
+  },
+  {
+    "company": "Cổ phiếu của CTCP Lưới thép Bình Tây",
+    "ticker": "VDT"
+  },
+  {
+    "company": "CTCP Đầu tư và Xây dựng Điện Mêca Vneco",
+    "ticker": "VES"
+  },
+  {
+    "company": "Cổ phiếu thép Việt Đức",
+    "ticker": "VGS"
+  },
+  {
+    "company": "CTCP Ống thép Việt Đức VG PIPE",
+    "ticker": "VGS"
+  },
+  {
+    "company": "Cổ phiếu thép Việt Ý",
+    "ticker": "VIS"
+  },
+  {
+    "company": "Tổng Công ty Cảng Hàng không Việt Nam - UPCOM",
+    "ticker": "ACV"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Hàng không",
+    "ticker": "ARM"
+  },
+  {
+    "company": "ctcp Dịch vụ Bưu chính Interserco - IPX",
+    "ticker": "ASG"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Taseco",
+    "ticker": "AST"
+  },
+  {
+    "company": "CTCP Dịch vụ Sân bay Quốc tế Cam Ranh",
+    "ticker": "CIA"
+  },
+  {
+    "company": "Tổng Công ty Hàng không Việt Nam - HOSE",
+    "ticker": "HVN"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Sân bay Đà Nẵng - HNX",
+    "ticker": "MAS"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Sân bay Nội Bài - UPCOM",
+    "ticker": "NAS"
+  },
+  {
+    "company": "CTCP Suất ăn Hàng không Nội Bài - UPCOM",
+    "ticker": "NCS"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng hóa Nội Bài - HOSE",
+    "ticker": "NCT"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất - UPCOM",
+    "ticker": "SAS"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng hóa Sài Gòn",
+    "ticker": "SCS"
+  },
+  {
+    "company": "CTCP Phục vụ Mặt đất Sài Gòn - HOSE",
+    "ticker": "SGN"
+  },
+  {
+    "company": "CTCP Hàng không Vietjet - HOSE",
+    "ticker": "VJC"
+  },
+  {
+    "company": "CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ",
+    "ticker": "AMV"
+  },
+  {
+    "company": "Công Ty Cp Dược Enlie",
+    "ticker": "BCP"
+  },
+  {
+    "company": "CTCP Thiết kế Công Nghiệp Hóa chất",
+    "ticker": "CEC"
+  },
+  {
+    "company": "CTCP Thuốc sát trùng Cần Thơ",
+    "ticker": "CPC"
+  },
+  {
+    "company": "CTCP Dược – Trang thiết bị Y tế Bình Định",
+    "ticker": "DBD"
+  },
+  {
+    "company": "CTCP Dược – Vật tư Y Tế Đăk Lăk",
+    "ticker": "DBM"
+  },
+  {
+    "company": "CTCP Dược phẩm Bến Tre",
+    "ticker": "DBT"
+  },
+  {
+    "company": "CTCP Công nghiệp Hóa chất Đà Nẵng",
+    "ticker": "DCI"
+  },
+  {
+    "company": "CTCP Dược phẩm Cửu Long",
+    "ticker": "DCL"
+  },
+  {
+    "company": "CTCP Dược và Thiết bị Y tế Đà Nẵng",
+    "ticker": "DDN"
+  },
+  {
+    "company": "CTCP Dược Vật tư Y tế Hải Dương",
+    "ticker": "DHD"
+  },
+  {
+    "company": "CTCP Dược Hậu Giang",
+    "ticker": "DHG"
+  },
+  {
+    "company": "CTCP Dược phẩm Hà Tây",
+    "ticker": "DHT"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Y tế DOMESCO",
+    "ticker": "DMC"
+  },
+  {
+    "company": "Tổng CTCP Y tế DANAMECO",
+    "ticker": "DNM"
+  },
+  {
+    "company": "CTCP Dược phẩm Trung ương 2",
+    "ticker": "DP2"
+  },
+  {
+    "company": "CTCP Dược phẩm Trung ương 3",
+    "ticker": "DP3"
+  },
+  {
+    "company": "CTCP Dược Đồng Nai",
+    "ticker": "DPP"
+  },
+  {
+    "company": "CTCP Dược phẩm Tipharco",
+    "ticker": "DTG"
+  },
+  {
+    "company": "Tổng Công ty Dược Việt Nam – CTCP",
+    "ticker": "DVN"
+  },
+  {
+    "company": "CTCP Dược Hà Tĩnh",
+    "ticker": "HDP"
+  },
+  {
+    "company": "CTCP Dược phẩm Imexpharm",
+    "ticker": "IMP"
+  },
+  {
+    "company": "CTCP Thiết bị Y tế Việt Nhật",
+    "ticker": "JVC"
+  },
+  {
+    "company": "CTCP Dược Lâm Đồng – Ladophar",
+    "ticker": "LDP"
+  },
+  {
+    "company": "CTCP Dược thú Y Cai Lậy",
+    "ticker": "MKV"
+  },
+  {
+    "company": "CTCP Dược Medipharco",
+    "ticker": "MTP"
+  },
+  {
+    "company": "CTCP Nam Dược",
+    "ticker": "NDC"
+  },
+  {
+    "company": "CTCP Dược phẩm 2/9",
+    "ticker": "NDP"
+  },
+  {
+    "company": "CTCP Dược phẩm OPC",
+    "ticker": "OPC"
+  },
+  {
+    "company": "CTCP Dược phẩm Dược liệu Pharmedic",
+    "ticker": "PMC"
+  },
+  {
+    "company": "CTCP Pymepharco",
+    "ticker": "PME"
+  },
+  {
+    "company": "CTCP Dược phẩm Phong Phú",
+    "ticker": "PPP"
+  },
+  {
+    "company": "CTCP SPM",
+    "ticker": "SPM"
+  },
+  {
+    "company": "CTCP Traphaco",
+    "ticker": "TRA"
+  },
+  {
+    "company": "CTCP Dược Trung ương 3",
+    "ticker": "TW3"
+  },
+  {
+    "company": "CTCP Dược phẩm TW 25",
+    "ticker": "UPH"
+  },
+  {
+    "company": "CTCP Dược phẩm Trung Ương Vidipha",
+    "ticker": "VDP"
+  },
+  {
+    "company": "CTCP Khử trùng Việt Nam",
+    "ticker": "VFG"
+  },
+  {
+    "company": "CTCP Y Dược phẩm Vimedimex",
+    "ticker": "VMD"
+  },
+  {
+    "company": "CTCP Thủy sản Mekong - HOSE",
+    "ticker": "AAM"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Thủy sản Bến Tre - HOSE",
+    "ticker": "ABT"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang - HOSE",
+    "ticker": "ACL"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Thủy sản An Giang - UPCOM",
+    "ticker": "AGF"
+  },
+  {
+    "company": "CTCP Nam Việt - HSX",
+    "ticker": "ANV"
+  },
+  {
+    "company": "CTCP Kinh doanh Thủy Hải Sản Sài Gòn - UPCOM",
+    "ticker": "APT"
+  },
+  {
+    "company": "CTCP Thủy sản Bạc Liêu - HNX",
+    "ticker": "BLF"
+  },
+  {
+    "company": "CTCP Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX - UPCOM",
+    "ticker": "CAD"
+  },
+  {
+    "company": "CTCP Thủy sản Cà Mau - UPCOM",
+    "ticker": "CAT"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Thủy sản Cần Thơ - UPCOM",
+    "ticker": "CCA"
+  },
+  {
+    "company": "CTCP Camimex Group - HOSE",
+    "ticker": "CMX"
+  },
+  {
+    "company": "CTCP Camimex Group - HOSE",
+    "ticker": "CMX"
+  },
+  {
+    "company": "CTCP Nam Việt - HSX",
+    "ticker": "DAT"
+  },
+  {
+    "company": "CTCP Thực phẩm Sao Ta",
+    "ticker": "FMC"
+  },
+  {
+    "company": "Trung tâm Giống Thủy sản Quảng Nam - UPCOM",
+    "ticker": "GQN"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại Thủy Sản - UPCOM",
+    "ticker": "ICF"
+  },
+  {
+    "company": "CTCT Đầu tư và phát triển đa quốc gia IDI",
+    "ticker": "IDI"
+  },
+  {
+    "company": "CTCP Chế biến Thủy sản Xuất khẩu Minh Hải - UPCOM",
+    "ticker": "JOS"
+  },
+  {
+    "company": "CTCP Kiên Hùng - HNX",
+    "ticker": "KHS"
+  },
+  {
+    "company": "CTCP Xuất khẩu Thủy sản Khánh Hòa - UPCOM",
+    "ticker": "KSE"
+  },
+  {
+    "company": "CTCP Tập đoàn Thủy sản Minh Phú - UPCOM",
+    "ticker": "MPC"
+  },
+  {
+    "company": "CTCP Chế biến Thủy sản Xuất khẩu Ngô Quyền - UPCOM",
+    "ticker": "NGC"
+  },
+  {
+    "company": "CTCP Công nghiệp Thủy sản - UPCOM",
+    "ticker": "SCO"
+  },
+  {
+    "company": "Tổng Công ty Thuỷ sản Việt Nam - UPCOM",
+    "ticker": "SEA"
+  },
+  {
+    "company": "CTCP Phục vụ Mặt đất Sài Gòn - HOSE",
+    "ticker": "SGN"
+  },
+  {
+    "company": "CTCP Nông nghiệp Hùng Hậu - HNX",
+    "ticker": "SJ1"
+  },
+  {
+    "company": "CTCP XNK Thuỷ sản Năm Căn - UPCOM",
+    "ticker": "SNC"
+  },
+  {
+    "company": "CTCP XNK Thuỷ sản Miền Trung - UPCOM",
+    "ticker": "SPD"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Thủy sản Hà Nội - UPCOM",
+    "ticker": "SPH"
+  },
+  {
+    "company": "CTCP XNK Thuỷ sản Sài Gòn - UPCOM",
+    "ticker": "SSN"
+  },
+  {
+    "company": "CTCP Thủy sản số 4 - HOSE",
+    "ticker": "TS4"
+  },
+  {
+    "company": "CTCP Vĩnh Hoàn - HSX",
+    "ticker": "VHC"
+  },
+  {
+    "company": "CTCP Đầu tư Việt Việt Nhật - UPCOM",
+    "ticker": "VNH"
+  },
+  {
+    "company": "CTCP Tập Đoàn Tiên Sơn Thanh Hóa",
+    "ticker": "AAT"
+  },
+  {
+    "company": "Cty Cổ phần Damsan",
+    "ticker": "ADS"
+  },
+  {
+    "company": "CTCP 28.1",
+    "ticker": "AG1"
+  },
+  {
+    "company": "CTCP Giày Bình Định - UPCOM",
+    "ticker": "BDF"
+  },
+  {
+    "company": "CTCP May mặc Bình Dương",
+    "ticker": "BDG"
+  },
+  {
+    "company": "CTCP May Bình Minh",
+    "ticker": "BMG"
+  },
+  {
+    "company": "CTCP Dệt may – Đầu tư – Thương mại Thành Công - HOSE",
+    "ticker": "CTM"
+  },
+  {
+    "company": "CTCP Tổng Công ty May Đáp Cầu",
+    "ticker": "DCG"
+  },
+  {
+    "company": "Cty Cổ phần Dệt may 7",
+    "ticker": "DM7"
+  },
+  {
+    "company": "Cty Cổ phần Everpia",
+    "ticker": "EVE"
+  },
+  {
+    "company": "CTCP Đầu tư Dệt may G.Home - UPCOM",
+    "ticker": "G20"
+  },
+  {
+    "company": "Cty Cổ phần Sản xuất Kinh doanh và XNK Bình Thạnh",
+    "ticker": "GIL"
+  },
+  {
+    "company": "Cty Cổ phần Garmex Sài Gòn",
+    "ticker": "GMC"
+  },
+  {
+    "company": "CTCP Dệt may 29/3 - UPCOM",
+    "ticker": "HCB"
+  },
+  {
+    "company": "CTCP Dệt May Huế - UPCOM",
+    "ticker": "HDM"
+  },
+  {
+    "company": "CTCP Thương mại dịch vụ Thời trang Hà Nội - UPCOM",
+    "ticker": "HFS"
+  },
+  {
+    "company": "Cty Cổ phần May Hữu Nghị",
+    "ticker": "HNI"
+  },
+  {
+    "company": "Tổng CTCP Dệt may Hà Nội - UPCOM",
+    "ticker": "HSM"
+  },
+  {
+    "company": "Tổng CTCP Dệt may Hòa Thọ - UPCOM",
+    "ticker": "HTG"
+  },
+  {
+    "company": "Tổng Công ty May Hưng Yên - CTCP",
+    "ticker": "HUG"
+  },
+  {
+    "company": "Cty Cổ phần Mirae",
+    "ticker": "KMR"
+  },
+  {
+    "company": "CTCP Giày da và May mặc Xuất khẩu (LEGAMEX) - UPCOM",
+    "ticker": "LGM"
+  },
+  {
+    "company": "Tổng Công ty May 10 – CTCP - UPCOM",
+    "ticker": "M10"
+  },
+  {
+    "company": "CTCP Tổng Công ty May Đồng Nai - UPCOM",
+    "ticker": "MDN"
+  },
+  {
+    "company": "Tổng Công ty Đức Giang - CTCP",
+    "ticker": "MGG"
+  },
+  {
+    "company": "CTCP Dệt Minh Khai - UPCOM",
+    "ticker": "MKT"
+  },
+  {
+    "company": "Tổng Công ty May Nhà Bè – CTCP - UPCOM",
+    "ticker": "MNB"
+  },
+  {
+    "company": "CTCP Tập đoàn MPT",
+    "ticker": "MPT"
+  },
+  {
+    "company": "Cty Cổ phần May Sông Hồng",
+    "ticker": "MSH"
+  },
+  {
+    "company": "Tổng CTCP Dệt may Nam Định - UPCOM",
+    "ticker": "NDT"
+  },
+  {
+    "company": "CTCP May Nam Định - UPCOM",
+    "ticker": "NJC"
+  },
+  {
+    "company": "CTCP May Phú Thịnh – Nhà Bè - UPCOM",
+    "ticker": "NPS"
+  },
+  {
+    "company": "CTCP Dệt – May Nha Trang - UPCOM",
+    "ticker": "NTT"
+  },
+  {
+    "company": "CTCP May Xuất khẩu Phan Thiết - UPCOM",
+    "ticker": "PTG"
+  },
+  {
+    "company": "CTCP Đầu tư Phát triển Sài Gòn 3 Group",
+    "ticker": "SGI"
+  },
+  {
+    "company": "CTCP Sợi Phú Bài - UPCOM",
+    "ticker": "SPB"
+  },
+  {
+    "company": "CTCP Giáo dục G Sài Gòn",
+    "ticker": "SSF"
+  },
+  {
+    "company": "CTCP Sợi Thế Kỷ - HOSE",
+    "ticker": "STK"
+  },
+  {
+    "company": "Cty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+    "ticker": "TCM"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển TDT",
+    "ticker": "TDT"
+  },
+  {
+    "company": "CTCP Vải sợi May mặc Miền Bắc",
+    "ticker": "TET"
+  },
+  {
+    "company": "CTCP Tứ Hải Hà Nam",
+    "ticker": "THM"
+  },
+  {
+    "company": "CTCP May Quốc tế Thắng Lợi",
+    "ticker": "TLI"
+  },
+  {
+    "company": "Cty Cổ phần Đầu tư và Thương mại TNG",
+    "ticker": "TNG"
+  },
+  {
+    "company": "CTCP May Thanh Trì",
+    "ticker": "TTG"
+  },
+  {
+    "company": "Tổng Công ty Việt Thắng",
+    "ticker": "TVT"
+  },
+  {
+    "company": "CTCP – Viện nghiên cứu Dệt may - UPCOM",
+    "ticker": "VDM"
+  },
+  {
+    "company": "CTCP Vinatex Đà Nẵng",
+    "ticker": "VDN"
+  },
+  {
+    "company": "Tổng CTCP May Việt Tiến - UPCOM",
+    "ticker": "VGG"
+  },
+  {
+    "company": "Tập đoàn Dệt may Việt Nam - UPCOM",
+    "ticker": "VGT"
+  },
+  {
+    "company": "CTCP X20",
+    "ticker": "X20"
+  },
+  {
+    "company": "CTCP 26",
+    "ticker": "X26"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Hàng không",
+    "ticker": "ARM"
+  },
+  {
+    "company": "CTCP Tập đoàn ASG",
+    "ticker": "ASG"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Taseco",
+    "ticker": "AST"
+  },
+  {
+    "company": "CTCP Dịch vụ Bến Thành",
+    "ticker": "BSC"
+  },
+  {
+    "company": "CTCP Cảng An Giang",
+    "ticker": "CAG"
+  },
+  {
+    "company": "CTCP Cảng Cửa Cấm Hải Phòng - UPCOM",
+    "ticker": "CCP"
+  },
+  {
+    "company": "CTCP Cảng Cam Ranh - UPCOM",
+    "ticker": "CCR"
+  },
+  {
+    "company": "CTCP Cảng Cần Thơ - UPCOM",
+    "ticker": "CCT"
+  },
+  {
+    "company": "CTCP Cảng Đà Nẵng - HNX",
+    "ticker": "CDN"
+  },
+  {
+    "company": "CTCP Dịch vụ Sân bay Quốc tế Cam Ranh",
+    "ticker": "CIA"
+  },
+  {
+    "company": "CTCP Cảng Cát Lái - HOSE",
+    "ticker": "CLL"
+  },
+  {
+    "company": "CTCP Cảng Chân Mây - UPCOM",
+    "ticker": "CMP"
+  },
+  {
+    "company": "CTCP Hàng Hải Đông Đô - UPCOM",
+    "ticker": "DDM"
+  },
+  {
+    "company": "CTCP Tập đoàn Năng lượng Tái tạo Việt Nam - HNX",
+    "ticker": "DL1"
+  },
+  {
+    "company": "CTCP Logistics Cảng Đà Nẵng - UPCOM",
+    "ticker": "DNL"
+  },
+  {
+    "company": "CTCP Quản lý Đường sông Số 3",
+    "ticker": "DS3"
+  },
+  {
+    "company": "CTCP Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng - UPCOM",
+    "ticker": "DVC"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Cảng Đình Vũ - HOSE",
+    "ticker": "DVP"
+  },
+  {
+    "company": "CTCP Cảng Đoạn Xá - HNX",
+    "ticker": "DXP"
+  },
+  {
+    "company": "CTCP Đầu tư Dịch vụ và Phát triển Xanh",
+    "ticker": "GIC"
+  },
+  {
+    "company": "CTCP Gemadept - HOSE",
+    "ticker": "GMD"
+  },
+  {
+    "company": "CTCP Vận tải Sản Phẩm Khí Quốc tế - HOSE",
+    "ticker": "GSP"
+  },
+  {
+    "company": "CTCP Thuận Thảo - UPCOM",
+    "ticker": "GTT"
+  },
+  {
+    "company": "CTCP Vận tải và Xếp dỡ Hải An - HOSE",
+    "ticker": "HAH"
+  },
+  {
+    "company": "CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng - HNX",
+    "ticker": "HCT"
+  },
+  {
+    "company": "CTCP Hưng Đạo Container - UPCOM",
+    "ticker": "HDO"
+  },
+  {
+    "company": "CTCP Hoàng Hà - HNX",
+    "ticker": "HHG"
+  },
+  {
+    "company": "CTCP Hải Minh",
+    "ticker": "HMH"
+  },
+  {
+    "company": "CTCP Vận tải Đường sắt Hà Nội - UPCOM",
+    "ticker": "HRT"
+  },
+  {
+    "company": "CTCP Thương mại Hóc Môn - HNX",
+    "ticker": "HTC"
+  },
+  {
+    "company": "CTCP Vận tải Hà Tiên - HOSE",
+    "ticker": "HTV"
+  },
+  {
+    "company": "Tổng Công ty Hàng không Việt Nam - CTCP",
+    "ticker": "HVN"
+  },
+  {
+    "company": "CTCP ICD Tân Cảng - Long Bình",
+    "ticker": "ILB"
+  },
+  {
+    "company": "CTCP ICD Tân Cảng Sóng Thần - UPCOM",
+    "ticker": "IST"
+  },
+  {
+    "company": "CTCP Cung ứng và Dịch vụ Kỹ thuật Hàng Hải - HNX",
+    "ticker": "MAC"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng không Sân bay Đà Nẵng",
+    "ticker": "MAS"
+  },
+  {
+    "company": "CTCP MHC - HOSE",
+    "ticker": "MHC"
+  },
+  {
+    "company": "Tổng công ty Hàng Hải Việt Nam",
+    "ticker": "MVN"
+  },
+  {
+    "company": "CTCP Cảng Nghệ Tĩnh - HNX",
+    "ticker": "NAP"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng hóa Nội Bài",
+    "ticker": "NCT"
+  },
+  {
+    "company": "CTCP Vận tải Khí và Hóa chất Việt Nam - HNX",
+    "ticker": "PCT"
+  },
+  {
+    "company": "CTCP Cảng Đồng Nai - HOSE",
+    "ticker": "PDN"
+  },
+  {
+    "company": "CTCP PGT Holdings - HNX",
+    "ticker": "PGT"
+  },
+  {
+    "company": "CTCP Cảng Hải Phòng - HNX",
+    "ticker": "PHP"
+  },
+  {
+    "company": "CTCP Thương mại và Vận tải Petrolimex Hà Nội - HNX",
+    "ticker": "PJC"
+  },
+  {
+    "company": "CTCP Vận tải Xăng dầu đường Thủy Petrolimex - HOSE",
+    "ticker": "PJT"
+  },
+  {
+    "company": "CTCP Logistics Portserco - HNX",
+    "ticker": "PRC"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn - HNX",
+    "ticker": "PSC"
+  },
+  {
+    "company": "CTCP Cảng Dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa - UPCOM",
+    "ticker": "PSN"
+  },
+  {
+    "company": "CTCP Cảng Dịch vụ Dầu khí Đình Vũ - UPCOM",
+    "ticker": "PSP"
+  },
+  {
+    "company": "CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng - HNX",
+    "ticker": "PTS"
+  },
+  {
+    "company": "CTCP Vận tải Dầu khí Thái Bình Dương - UPCOM",
+    "ticker": "PVP"
+  },
+  {
+    "company": "Tổng CTCP Vận tải Dầu khí - HOSE",
+    "ticker": "PVT"
+  },
+  {
+    "company": "CTCP Tân Cảng Quy Nhơn - UPCOM",
+    "ticker": "QSP"
+  },
+  {
+    "company": "CTCP Xếp dỡ và Dịch vụ Cảng Sài Gòn - UPCOM",
+    "ticker": "SAC"
+  },
+  {
+    "company": "CTCP Dịch vụ Hàng hóa Sài Gòn",
+    "ticker": "SCS"
+  },
+  {
+    "company": "CTCP Đại lý Vận tải SAFI - HOSE",
+    "ticker": "SFI"
+  },
+  {
+    "company": "CTCP Phục vụ Mặt đất Sài Gòn",
+    "ticker": "SGN"
+  },
+  {
+    "company": "CTCP Cảng Sài Gòn - UPCOM",
+    "ticker": "SGP"
+  },
+  {
+    "company": "CTCP Tàu cao tốc Superdong - Kiên Giang",
+    "ticker": "SKG"
+  },
+  {
+    "company": "CTCP Vận tải biển Hải Âu - UPCOM",
+    "ticker": "SSG"
+  },
+  {
+    "company": "CTCP Kho vận Miền Nam",
+    "ticker": "STG"
+  },
+  {
+    "company": "CTCP Vận chuyển Sài Gòn Tourist - UPCOM",
+    "ticker": "STT"
+  },
+  {
+    "company": "Tổng CTCP Đường Sông Miền Nam",
+    "ticker": "SWC"
+  },
+  {
+    "company": "CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng - HOSE",
+    "ticker": "TCL"
+  },
+  {
+    "company": "CTCP Vận tải Đa phương thức Duyên Hải - HOSE",
+    "ticker": "TCO"
+  },
+  {
+    "company": "CTCP Cáp treo Núi Bà Tây Ninh",
+    "ticker": "TCT"
+  },
+  {
+    "company": "CTCP Kho Vận Tân Cảng - UPCOM",
+    "ticker": "TCW"
+  },
+  {
+    "company": "CTCP Dịch vụ Vận tải và Thương mại - HNX",
+    "ticker": "TJC"
+  },
+  {
+    "company": "CTCP Transimex - HOSE",
+    "ticker": "TMS"
+  },
+  {
+    "company": "CTCP Cảng Thị Nại - UPCOM",
+    "ticker": "TNP"
+  },
+  {
+    "company": "CTCP Transimex Logistics",
+    "ticker": "TOT"
+  },
+  {
+    "company": "CTCP Đầu tư Xây dựng và Công nghệ Tiến Trung",
+    "ticker": "TTZ"
+  },
+  {
+    "company": "CTCP Vinafco - UPCOM",
+    "ticker": "VFC"
+  },
+  {
+    "company": "CTCP Vận tải và Thuê tàu - UPCOM",
+    "ticker": "VFR"
+  },
+  {
+    "company": "CTCP Cảng Rau Quả - HNX",
+    "ticker": "VGP"
+  },
+  {
+    "company": "CTCP Vận tải Xăng dầu Vipco - HOSE",
+    "ticker": "VIP"
+  },
+  {
+    "company": "CTCP Hàng không Vietjet",
+    "ticker": "VJC"
+  },
+  {
+    "company": "CTCP Phát triển Hàng Hải",
+    "ticker": "VMS"
+  },
+  {
+    "company": "CTCP Vận tải Biển Vinaship - UPCOM",
+    "ticker": "VNA"
+  },
+  {
+    "company": "CTCP Vinafreight",
+    "ticker": "VNF"
+  },
+  {
+    "company": "CTCP Logistics Vinalink - HOSE",
+    "ticker": "VNL"
+  },
+  {
+    "company": "CTCP Ánh Dương Việt Nam - HOSE",
+    "ticker": "VNS"
+  },
+  {
+    "company": "CTCP Giao nhận Vận tải Ngoại thương - HNX",
+    "ticker": "VNT"
+  },
+  {
+    "company": "CTCP Vận tải Biển Việt Nam) - HOSE",
+    "ticker": "VOS"
+  },
+  {
+    "company": "CTCP Đại lý Hàng hải Việt Nam",
+    "ticker": "VSA"
+  },
+  {
+    "company": "CTCP Container Việt Nam - HOSE",
+    "ticker": "VSC"
+  },
+  {
+    "company": "CTCP Container Miền Trung",
+    "ticker": "VSM"
+  },
+  {
+    "company": "CTCP Vận tải Xăng dầu Vitaco - HOSE",
+    "ticker": "VTO"
+  },
+  {
+    "company": "CTCP Bến xe Miền Tây",
+    "ticker": "WCS"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Ngân hàng Nông nghiệp",
+    "ticker": "ABI"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Hàng Không",
+    "ticker": "AIC"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam",
+    "ticker": "BIC"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Bảo Long",
+    "ticker": "BLI"
+  },
+  {
+    "company": "Tổng CTCP Bảo Minh",
+    "ticker": "BMI"
+  },
+  {
+    "company": "Tập đoàn Bảo Việt",
+    "ticker": "BVH"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Quân Đội",
+    "ticker": "MIG"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Petrolimex",
+    "ticker": "PGI"
+  },
+  {
+    "company": "Tổng CTCP Tái bảo hiểm Hà Nội",
+    "ticker": "PRE"
+  },
+  {
+    "company": "Tổng CTCP bảo hiểm Bưu Điện",
+    "ticker": "PTI"
+  },
+  {
+    "company": "CTCP PVI",
+    "ticker": "PVI"
+  },
+  {
+    "company": "Tổng CTCP tái bảo hiểm Quốc gia Việt Nam",
+    "ticker": "VNR"
+  },
+  {
+    "company": "CTCP Đầu tư Nhãn hiệu Việt",
+    "ticker": "ABR"
+  },
+  {
+    "company": "CTCP Mỹ thuật và Truyền thông",
+    "ticker": "ADC"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Bình Định",
+    "ticker": "BDB"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Trường học Đà Nẵng",
+    "ticker": "BED"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Bình Thuận",
+    "ticker": "BST"
+  },
+  {
+    "company": "CTCP COKYVINA",
+    "ticker": "CKV"
+  },
+  {
+    "company": "CTCP tập đoàn công nghệ CMC",
+    "ticker": "CMG"
+  },
+  {
+    "company": "CTCP Công nghệ mạng và truyền thông",
+    "ticker": "CMT"
+  },
+  {
+    "company": "Tổng CTCP Công trình Viettel",
+    "ticker": "CTR"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng",
+    "ticker": "DAD"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại Thành phố Đà Nẵng",
+    "ticker": "DAE"
+  },
+  {
+    "company": "CTCP Đầu tư Sao Thăng Long",
+    "ticker": "DST"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại Thành phố Hà Nội",
+    "ticker": "EBS"
+  },
+  {
+    "company": "CTCP Tập Đoàn ECI",
+    "ticker": "ECI"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Giáo dục Hà Nội",
+    "ticker": "EID"
+  },
+  {
+    "company": "CTCP đầu tư phát triển công nghệ điện tử – viễn thông",
+    "ticker": "ELC"
+  },
+  {
+    "company": "CTCP FPT",
+    "ticker": "FPT"
+  },
+  {
+    "company": "CTCP Kỹ thuật Điện Toàn cầu",
+    "ticker": "GLT"
+  },
+  {
+    "company": "CTCP Sách Đại học - Dạy nghề",
+    "ticker": "HEV"
+  },
+  {
+    "company": "CTCP tập đoàn HIPT",
+    "ticker": "HIG"
+  },
+  {
+    "company": "CTCP dịch vụ công nghệ tin học HPT",
+    "ticker": "HPT"
+  },
+  {
+    "company": "CTCP viễn thông – tin học bưu điện",
+    "ticker": "ICT"
+  },
+  {
+    "company": "CTCP Công nghệ Tiên Phong",
+    "ticker": "ITD"
+  },
+  {
+    "company": "CTCP Kasati",
+    "ticker": "KST"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Trường học Long An",
+    "ticker": "LBE"
+  },
+  {
+    "company": "CTCP Công nghệ One",
+    "ticker": "ONE"
+  },
+  {
+    "company": "CTCP Tin học Viễn thông Petrolimex",
+    "ticker": "PIA"
+  },
+  {
+    "company": "CTCP thiết bị Bưu Điện",
+    "ticker": "POT"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Trường học Quảng Ninh",
+    "ticker": "QST"
+  },
+  {
+    "company": "CTCP Sam Holdings",
+    "ticker": "SAM"
+  },
+  {
+    "company": "CTCP công nghệ Sao Bắc Đẩu",
+    "ticker": "SBD"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Giáo dục Phương Nam",
+    "ticker": "SED"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại Thành phố Hồ Chí Minh",
+    "ticker": "SGD"
+  },
+  {
+    "company": "CTCP công nghệ viễn thông Sài Gòn",
+    "ticker": "SGT"
+  },
+  {
+    "company": "CTCP Công nghệ Viễn Thông Sài Gòn",
+    "ticker": "SGT"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Giáo dục Miền Nam",
+    "ticker": "SMN"
+  },
+  {
+    "company": "CTCP Sara Việt Nam",
+    "ticker": "SRA"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Trường học Thành phố Hồ Chí Minh",
+    "ticker": "STC"
+  },
+  {
+    "company": "CTCP In sách giáo khoa tại Thành phố Hà Nội",
+    "ticker": "TPH"
+  },
+  {
+    "company": "CTCP Viễn Liên",
+    "ticker": "UNI"
+  },
+  {
+    "company": "Tổng CTCP điện tử và tin học Việt Nam",
+    "ticker": "VEC"
+  },
+  {
+    "company": "CTCP Viễn thông VTC",
+    "ticker": "VTC"
+  },
+  {
+    "company": "CTCP Viễn thông điện tử Vinacap",
+    "ticker": "VTE"
+  },
+  {
+    "company": "CTCP Hợp Nhất",
+    "ticker": "AAH"
+  },
+  {
+    "company": "CTCP 397",
+    "ticker": "BCB"
+  },
+  {
+    "company": "CTCP XNK than - Vinacomin",
+    "ticker": "CLM"
+  },
+  {
+    "company": "CTCP Than Cao Sơn - TKV",
+    "ticker": "CST"
+  },
+  {
+    "company": "CTCP Than Hà Lầm – Vinacomin - HNX",
+    "ticker": "HLC"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại và Dịch vụ – Vinacomin",
+    "ticker": "ITS"
+  },
+  {
+    "company": "CTCP Than Mông Dương – Vinacomin - HNX",
+    "ticker": "MDC"
+  },
+  {
+    "company": "CTCP Than Núi Béo – Vinacomin - HNX",
+    "ticker": "NBC"
+  },
+  {
+    "company": "CTCP Than Cọc Sáu – Vinacomin - HNX",
+    "ticker": "TC6"
+  },
+  {
+    "company": "CTCP Than Đèo Nai – VinacominCTCP Than Đèo Nai – Vinacomin - HNX",
+    "ticker": "TDN"
+  },
+  {
+    "company": "CTCP Than Hà Tu – Vinacomin - HNX",
+    "ticker": "THT"
+  },
+  {
+    "company": "CTCP Kinh doanh Than Miền Bắc – Vinacomin - HNX",
+    "ticker": "TMB"
+  },
+  {
+    "company": "CTCP Than Vàng Danh – Vinacomin - HNX",
+    "ticker": "TVD"
+  },
+  {
+    "company": "CTCP Vận tải và Chế biến Than Đông Bắc",
+    "ticker": "VDB"
+  },
+  {
+    "company": "CTCP Đầu tư bất động sản An Gia",
+    "ticker": "AGG"
+  },
+  {
+    "company": "CTCP Alphanam Ec",
+    "ticker": "AME"
+  },
+  {
+    "company": "CTCP Châu Á Thái Bình Dương",
+    "ticker": "API"
+  },
+  {
+    "company": "CTCP Thống Nhất",
+    "ticker": "BAX"
+  },
+  {
+    "company": "CTCP xây dựng và giao thông Bình Dương",
+    "ticker": "BCE"
+  },
+  {
+    "company": "CTCP Bamboo Capital",
+    "ticker": "BCG"
+  },
+  {
+    "company": "Tổng Công ty Đầu tư và Phát triển Công nghiệp",
+    "ticker": "BCM"
+  },
+  {
+    "company": "CTCP Xây dựng 47",
+    "ticker": "C47"
+  },
+  {
+    "company": "CTCP Xây dựng 1369",
+    "ticker": "C69"
+  },
+  {
+    "company": "CTCP Xây dựng và đầu tư 492",
+    "ticker": "C92"
+  },
+  {
+    "company": "CTCP Đầu Tư và Phát triển Đô Thị Dầu khí Cửu Long",
+    "ticker": "CCL"
+  },
+  {
+    "company": "CTCP Chương Dương",
+    "ticker": "CDC"
+  },
+  {
+    "company": "CTCP Xây dựng Hạ tầng CII",
+    "ticker": "CEE"
+  },
+  {
+    "company": "CTCP Tập đoàn CEO",
+    "ticker": "CEO"
+  },
+  {
+    "company": "CTCP COMA 18",
+    "ticker": "CIG"
+  },
+  {
+    "company": "CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+    "ticker": "CII"
+  },
+  {
+    "company": "CTCP Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang",
+    "ticker": "CKG"
+  },
+  {
+    "company": "CTCP CM Việt Nam",
+    "ticker": "CMS"
+  },
+  {
+    "company": "CTCP Đầu tư bất động sản thế kỷ",
+    "ticker": "CRE"
+  },
+  {
+    "company": "CTCP Tập đoàn Cotana",
+    "ticker": "CSC"
+  },
+  {
+    "company": "CTCP Xây dựng Coteccons",
+    "ticker": "CTD"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển Cường Thuận IDICO",
+    "ticker": "CTI"
+  },
+  {
+    "company": "Tổng CTCP đầu tư xây dựng và thương mại Việt Nam",
+    "ticker": "CTX"
+  },
+  {
+    "company": "CTCP Đầu tư và xây lắp Constrexim số 8",
+    "ticker": "CX8"
+  },
+  {
+    "company": "CTCP Địa ốc 11",
+    "ticker": "D11"
+  },
+  {
+    "company": "CTCP Phát triển đô thị công nghiệp số 2",
+    "ticker": "D2D"
+  },
+  {
+    "company": "CTCP đầu tư phát triển DIC số 2",
+    "ticker": "DC2"
+  },
+  {
+    "company": "CTCP Phát triển xây dựng Dic Holding",
+    "ticker": "DC4"
+  },
+  {
+    "company": "Tổng CTCP đầu tư và phát triển xây dựng",
+    "ticker": "DIG"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển xây dựng Hội An",
+    "ticker": "DIH"
+  },
+  {
+    "company": "CTCP Đạt Phương",
+    "ticker": "DPG"
+  },
+  {
+    "company": "CTCP DRH Holdings",
+    "ticker": "DRH"
+  },
+  {
+    "company": "CTCP Đệ Tam",
+    "ticker": "DTA"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển Thành Đạt",
+    "ticker": "DTD"
+  },
+  {
+    "company": "CTCP Tập đoàn Đất Xanh",
+    "ticker": "DXG"
+  },
+  {
+    "company": "CTCP Tập đoàn Everland",
+    "ticker": "EVG"
+  },
+  {
+    "company": "CTCP Fecon",
+    "ticker": "FCN"
+  },
+  {
+    "company": "CTCP Ngoại thương và phát triển đầu tư Tp Hồ Chí Minh",
+    "ticker": "FDC"
+  },
+  {
+    "company": "CTCP Địa ốc First Real",
+    "ticker": "FIR"
+  },
+  {
+    "company": "CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+    "ticker": "HAR"
+  },
+  {
+    "company": "CTCP Hacisco",
+    "ticker": "HAS"
+  },
+  {
+    "company": "CTCP Tần đoàn xây dựng Hòa Bình",
+    "ticker": "HBC"
+  },
+  {
+    "company": "CTCP Phát triển nhà Bà Rịa Vũng Tàu",
+    "ticker": "HDC"
+  },
+  {
+    "company": "CTCP Tập đoàn Hà Đô",
+    "ticker": "HDG"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển Bất động sản Hudland",
+    "ticker": "HLD"
+  },
+  {
+    "company": "CTCP đầu tư Hải Phát",
+    "ticker": "HPX"
+  },
+  {
+    "company": "CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân",
+    "ticker": "HQC"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển Hạ tầng Idico",
+    "ticker": "HTI"
+  },
+  {
+    "company": "CTCP Hưng Thịnh Incons",
+    "ticker": "HTN"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng Hud1",
+    "ticker": "HU1"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng Hud3",
+    "ticker": "HU3"
+  },
+  {
+    "company": "CTCP Xây lắp Thừa Thiên Huế",
+    "ticker": "HUB"
+  },
+  {
+    "company": "CTCP Tasco",
+    "ticker": "HUT"
+  },
+  {
+    "company": "CTCP Đầu tư và công nghệ HVC",
+    "ticker": "HVH"
+  },
+  {
+    "company": "CTCP Xây dựng sông Hồng",
+    "ticker": "ICG"
+  },
+  {
+    "company": "CTCP đầu tư IDJ Việt Nam",
+    "ticker": "IDJ"
+  },
+  {
+    "company": "CTCP Phát triển hạ tầng Vĩnh Phúc",
+    "ticker": "IDV"
+  },
+  {
+    "company": "Công ty đầu tư và phát triển hạ tầng kỹ thuật",
+    "ticker": "IJC"
+  },
+  {
+    "company": "CTCP Đầu tư và công nghiệp Tân Tạo",
+    "ticker": "ITA"
+  },
+  {
+    "company": "CTCP Đầu tư và kinh doanh nhà",
+    "ticker": "ITC"
+  },
+  {
+    "company": "Tổng công ty phát triển đô thị Kinh Bắc",
+    "ticker": "KBC"
+  },
+  {
+    "company": "CTCP Đầu tư và Kinh doanh Nhà Khang Điền",
+    "ticker": "KDH"
+  },
+  {
+    "company": "CTCP Kosy",
+    "ticker": "KOS"
+  },
+  {
+    "company": "CTCP tập đoàn đầu tư KTT",
+    "ticker": "KTT"
+  },
+  {
+    "company": "CTCP Lilama 10",
+    "ticker": "L10"
+  },
+  {
+    "company": "CTCP Licogi 14",
+    "ticker": "L14"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng số 18",
+    "ticker": "L18"
+  },
+  {
+    "company": "CTCP cơ khí lắp máy Lilama",
+    "ticker": "L35"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng 40",
+    "ticker": "L40"
+  },
+  {
+    "company": "CTCP Xây dựng Lilama 45 – 3",
+    "ticker": "L43"
+  },
+  {
+    "company": "CTCP Xây dựng Lilama 69 – 3",
+    "ticker": "L61"
+  },
+  {
+    "company": "CTCP Xây dựng Lilama 69 – 2",
+    "ticker": "L62"
+  },
+  {
+    "company": "CTCP Lắp máy – Thí nghiệm Cơ điện",
+    "ticker": "LCD"
+  },
+  {
+    "company": "CTCP Licogi 16",
+    "ticker": "LCG"
+  },
+  {
+    "company": "CTCP Licogi 166",
+    "ticker": "LCS"
+  },
+  {
+    "company": "CTCP Đầu tư LDG",
+    "ticker": "LDG"
+  },
+  {
+    "company": "Công ty bất động sản điện lực Miền Trung",
+    "ticker": "LEC"
+  },
+  {
+    "company": "CTCP đầu tư cầu đường CII",
+    "ticker": "LGC"
+  },
+  {
+    "company": "CTCP Đầu tư và phát triển đô thị Long Giang",
+    "ticker": "LGL"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng thủy lợi Lâm Đồng",
+    "ticker": "LHC"
+  },
+  {
+    "company": "CTCP Long Hậu",
+    "ticker": "LHG"
+  },
+  {
+    "company": "CTCP Licogi 13",
+    "ticker": "LIG"
+  },
+  {
+    "company": "CTCP Lilama 7",
+    "ticker": "LM7"
+  },
+  {
+    "company": "CTCP Lilama 18",
+    "ticker": "LM8"
+  },
+  {
+    "company": "CTCP Đầu tư xây dựng Lương Tài",
+    "ticker": "LUT"
+  },
+  {
+    "company": "CTCP Đầu tư và Xây dựng BDC Việt Nam",
+    "ticker": "MCO"
+  },
+  {
+    "company": "CTCP Đầu tư MST",
+    "ticker": "MST"
+  },
+  {
+    "company": "CTCP Đầu tư Năm Bảy Bảy",
+    "ticker": "NBB"
+  },
+  {
+    "company": "CTCP Đầu tư phát triển Nhà Đà Nẵng",
+    "ticker": "NDN"
+  },
+  {
+    "company": "CTCP Xây lắp phát triển nhà Đà Nẵng",
+    "ticker": "NDX"
+  },
+  {
+    "company": "Công ty đầu tư phát triển nhà và đô thị Nam Hà Nội",
+    "ticker": "NHA"
+  },
+  {
+    "company": "CTCP đầu tư Nam Long",
+    "ticker": "NLG"
+  },
+  {
+    "company": "CTCP Tập đoàn Danh Khôi",
+    "ticker": "NRC"
+  },
+  {
+    "company": "CTCP Phát triển đô thị Từ Liêm",
+    "ticker": "NTL"
+  },
+  {
+    "company": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
+    "ticker": "NVL"
+  },
+  {
+    "company": "CTCP Xây lắp Điện I",
+    "ticker": "PC1"
+  },
+  {
+    "company": "CTCP Phát triển Bất động sản Phát Đạt",
+    "ticker": "PDR"
+  },
+  {
+    "company": "CTCP Tập đoàn III Petrolimex",
+    "ticker": "PEN"
+  },
+  {
+    "company": "CTCP Xây dựng Phục Hưng Holdings",
+    "ticker": "PHC"
+  },
+  {
+    "company": "CTCP Dịch vụ kỹ thuật điện lực dầu khí Việt Nam",
+    "ticker": "PPS"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng Bưu điện",
+    "ticker": "PTC"
+  },
+  {
+    "company": "CTCP Thiết kế xây dựng thương mại Phúc Thịnh",
+    "ticker": "PTD"
+  },
+  {
+    "company": "CTCP đầu tư và xây dựng dầu khí",
+    "ticker": "PTL"
+  },
+  {
+    "company": "CTCP Đầu tư PV 2",
+    "ticker": "PV2"
+  },
+  {
+    "company": "CTCP Đầu tư nhà đất",
+    "ticker": "PVL"
+  },
+  {
+    "company": "CTCP Xây dựng Công nghiệp và Dân dụng Dầu khí",
+    "ticker": "PXI"
+  },
+  {
+    "company": "CTCP kết cấu kim loại và lắp máy dầu khí",
+    "ticker": "PXS"
+  },
+  {
+    "company": "CTCP Quốc Cường Gia Lai",
+    "ticker": "QCG"
+  },
+  {
+    "company": "CTCP Công trình giao thông vận tải Quảng Nam",
+    "ticker": "QTC"
+  },
+  {
+    "company": "CTCP Địa ốc Chợ Lớn",
+    "ticker": "RCL"
+  },
+  {
+    "company": "CTCP Cơ điện lạnh",
+    "ticker": "REE"
+  },
+  {
+    "company": "CTCP Sông Đà 505",
+    "ticker": "S55"
+  },
+  {
+    "company": "CTCP Xây dựng số 5",
+    "ticker": "SC5"
+  },
+  {
+    "company": "CTCP SCI EC",
+    "ticker": "SCI"
+  },
+  {
+    "company": "CTCP Địa ốc Sài Gòn Thường Tín",
+    "ticker": "SCR"
+  },
+  {
+    "company": "CTCP Sông Đà 2",
+    "ticker": "SD2"
+  },
+  {
+    "company": "CTCP Sông Đà 4",
+    "ticker": "SD4"
+  },
+  {
+    "company": "CTCP Sông Đà 5",
+    "ticker": "SD5"
+  },
+  {
+    "company": "CTCP Sông Đà 6",
+    "ticker": "SD6"
+  },
+  {
+    "company": "CTCP Sông Đà 9",
+    "ticker": "SD9"
+  },
+  {
+    "company": "CTCP Sông Đà 10",
+    "ticker": "SDT"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng phát triển đô thị sông Đà",
+    "ticker": "SDU"
+  },
+  {
+    "company": "CTCP Địa Ốc Sài Gòn",
+    "ticker": "SGR"
+  },
+  {
+    "company": "CTCP Sông Đà 1 – 01",
+    "ticker": "SJC"
+  },
+  {
+    "company": "CTCP Sông Đà 11",
+    "ticker": "SJE"
+  },
+  {
+    "company": "CTCP Đầu tư phát triển đô thị và khu công nghiệp Sông Đà",
+    "ticker": "SJS"
+  },
+  {
+    "company": "CTCP Kỹ Nghệ Lạnh",
+    "ticker": "SRF"
+  },
+  {
+    "company": "CTCP Sonadezi Long Bình",
+    "ticker": "SZB"
+  },
+  {
+    "company": "CTCP Sonadezi Châu Đức",
+    "ticker": "SZC"
+  },
+  {
+    "company": "CTCP Sonadezi Long Thành",
+    "ticker": "SZL"
+  },
+  {
+    "company": "CTCP Xây lắp Thành An 96",
+    "ticker": "TA9"
+  },
+  {
+    "company": "CTCP Đầu tư phát triển công nghiệp và vận tải",
+    "ticker": "TCD"
+  },
+  {
+    "company": "CTCP đầu tư dịch vụ tài chính Hoàng Huy",
+    "ticker": "TCH"
+  },
+  {
+    "company": "CTCP Phát triển và kinh doanh Bình Dương",
+    "ticker": "TDC"
+  },
+  {
+    "company": "CTCP Phát triển nhà Thủ Đức",
+    "ticker": "TDH"
+  },
+  {
+    "company": "CTCP Thái Holding",
+    "ticker": "THD"
+  },
+  {
+    "company": "CTCP Tập đoàn đầu tư Thăng Long",
+    "ticker": "TIG"
+  },
+  {
+    "company": "CTCP phát triển khu công nghiệp Tín Nghĩa",
+    "ticker": "TIP"
+  },
+  {
+    "company": "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình",
+    "ticker": "TIX"
+  },
+  {
+    "company": "CTCP Xây dựng và kinh doanh địa ốc Tấn Kỳ",
+    "ticker": "TKC"
+  },
+  {
+    "company": "CTCP Thương Mại và dịch vụ TNS Holdings",
+    "ticker": "TN1"
+  },
+  {
+    "company": "CTCP dịch vụ kỹ thuật Viễn Thông",
+    "ticker": "TST"
+  },
+  {
+    "company": "CTCP Tổng công ty Thăng Long",
+    "ticker": "TTL"
+  },
+  {
+    "company": "CTCP Xây dựng và Phát triển tỉnh Bà Rịa Vũng Tàu",
+    "ticker": "UDC"
+  },
+  {
+    "company": "CTCP Xây dựng số 12",
+    "ticker": "V12"
+  },
+  {
+    "company": "CTCP Vinaconex 21",
+    "ticker": "V21"
+  },
+  {
+    "company": "CTCP xây dựng số 1",
+    "ticker": "VC1"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng Vina2",
+    "ticker": "VC2"
+  },
+  {
+    "company": "CTCP tập đoàn Nam Mê Kông",
+    "ticker": "VC3"
+  },
+  {
+    "company": "CTCP Xây dựng và đầu tư Visicons",
+    "ticker": "VC6"
+  },
+  {
+    "company": "CTCP tập đoàn BGI",
+    "ticker": "VC7"
+  },
+  {
+    "company": "CTCP Xây dựng số 9",
+    "ticker": "VC9"
+  },
+  {
+    "company": "CTCP Vinaconex 25",
+    "ticker": "VCC"
+  },
+  {
+    "company": "CTCP xuất nhập khẩu và xây dựng Việt Nam",
+    "ticker": "VCG"
+  },
+  {
+    "company": "CTCP Xây dựng điện Vneco 1",
+    "ticker": "VE1"
+  },
+  {
+    "company": "CTCP Xây dựng điện Vneco2",
+    "ticker": "VE2"
+  },
+  {
+    "company": "CTCP Xây dựng điện Vneco3",
+    "ticker": "VE3"
+  },
+  {
+    "company": "CTCP Xây dựng điện Vneco4",
+    "ticker": "VE4"
+  },
+  {
+    "company": "CTCP Xây dựng điện Vneco 8",
+    "ticker": "VE8"
+  },
+  {
+    "company": "CTCP Vinhomes",
+    "ticker": "VHM"
+  },
+  {
+    "company": "CTCP Tập đoàn Vingroup",
+    "ticker": "VIC"
+  },
+  {
+    "company": "CTCP Vimeco",
+    "ticker": "VMC"
+  },
+  {
+    "company": "CTCP khoáng sản đầu tư Visaco",
+    "ticker": "VMI"
+  },
+  {
+    "company": "CTCP Xây dựng điện Việt Nam",
+    "ticker": "VNE"
+  },
+  {
+    "company": "CTCP Vạn Phát Hưng",
+    "ticker": "VPH"
+  },
+  {
+    "company": "CTCP Đầu tư Văn Phú",
+    "ticker": "VPI"
+  },
+  {
+    "company": "CTCP Bất động sản và đầu tư VRC",
+    "ticker": "VRC"
+  },
+  {
+    "company": "CTCP Vincom Retail",
+    "ticker": "VRE"
+  },
+  {
+    "company": "CTCP Đầu tư và xây dựng cấp thoát nước",
+    "ticker": "VSI"
+  },
+  {
+    "company": "CTCP Xây dựng Vật Liệu Bến Tre",
+    "ticker": "VXB"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang - Upcom",
+    "ticker": "AFX"
+  },
+  {
+    "company": "CTCP Xuất Nhập khẩu An Giang - HOSE",
+    "ticker": "AGM"
+  },
+  {
+    "company": "CTCP Rau quả Thực phẩm An Giang - Upcom",
+    "ticker": "ANT"
+  },
+  {
+    "company": "CTCP Chiếu xạ An Phú - HOSE",
+    "ticker": "APC"
+  },
+  {
+    "company": "CTCP Nông sản thực phẩm Quảng Ngãi - Upcom",
+    "ticker": "APF"
+  },
+  {
+    "company": "CTCP Nông nghiệp BAF Việt Nam - HOSE",
+    "ticker": "BAF"
+  },
+  {
+    "company": "CTCP Bibica - HOSE",
+    "ticker": "BBC"
+  },
+  {
+    "company": "CTCP Thực phẩm Bích Chi - HNX",
+    "ticker": "BCF"
+  },
+  {
+    "company": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội - HOSE",
+    "ticker": "BHN"
+  },
+  {
+    "company": "CTCP Lương thực Bình Định - Upcom",
+    "ticker": "BLT"
+  },
+  {
+    "company": "CTCP Bột mỳ Vinafood 1 - Upcom",
+    "ticker": "BMV1"
+  },
+  {
+    "company": "CTCP Đầu tư Sản xuất Bảo Ngọc - HNX",
+    "ticker": "BNA"
+  },
+  {
+    "company": "Cty Cổ phần Bia Sài Gòn - Sông Lam - Upcom",
+    "ticker": "BSL"
+  },
+  {
+    "company": "CTCP Đồ hộp Hạ Long - HNX",
+    "ticker": "CAN"
+  },
+  {
+    "company": "CTCP Lâm Nông sản Thực phẩm Yên Bái - HNX",
+    "ticker": "CAP"
+  },
+  {
+    "company": "Cty Cổ phần Thực phẩm Cholimex - Upcom",
+    "ticker": "CMF"
+  },
+  {
+    "company": "CTCP Lương thực Thực phẩm Colusa-Miliket - Upcom",
+    "ticker": "CMN"
+  },
+  {
+    "company": "CTCP Tập đoàn Dabaco Việt Nam - HOSE",
+    "ticker": "DBC"
+  },
+  {
+    "company": "CTCP Lương thực Thành phố Hồ Chí Minh - Upcom",
+    "ticker": "FCS"
+  },
+  {
+    "company": "CTCP Xuất Nhập Khẩu Lương Thực – Thực Phẩm Hà Nội - Upcom",
+    "ticker": "FHN"
+  },
+  {
+    "company": "CTCP Thực phẩm Sao Ta - HOSE",
+    "ticker": "FMC"
+  },
+  {
+    "company": "CTCP GTNfoods - HOSE",
+    "ticker": "GTN"
+  },
+  {
+    "company": "CTCP Bia Hà Nội - Hải Dương - HNX",
+    "ticker": "HAD"
+  },
+  {
+    "company": "CTCP Thương mại Bia Hà Nội - HNX",
+    "ticker": "HAT"
+  },
+  {
+    "company": "CTCP Rượu Hapro - Upcom",
+    "ticker": "HAV"
+  },
+  {
+    "company": "CTCP Bánh kẹo Hải Hà - HNX",
+    "ticker": "HHC"
+  },
+  {
+    "company": "CTCP Nông nghiệp và Thực phẩm Hà Nội – Kinh Bắc - Upcom",
+    "ticker": "HKB"
+  },
+  {
+    "company": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai - HOSE",
+    "ticker": "HNG"
+  },
+  {
+    "company": "Cty Cổ phần Thực phẩm Quốc tế - Upcom",
+    "ticker": "IFS"
+  },
+  {
+    "company": "CTCP Tập đoàn KIDO - HSX",
+    "ticker": "KDC"
+  },
+  {
+    "company": "CTCP Đường Kon Tum - HNX",
+    "ticker": "KTS"
+  },
+  {
+    "company": "CTCP Chế biến hàng Xuất khẩu Long An - HSX",
+    "ticker": "LAF"
+  },
+  {
+    "company": "CTCP Mía Đường Lam Sơn - HOSE",
+    "ticker": "LSS"
+  },
+  {
+    "company": "CTCP Tập đoàn Masan - HSX",
+    "ticker": "MSN"
+  },
+  {
+    "company": "CTCP Tập đoàn MaSan - HOSE",
+    "ticker": "MSN"
+  },
+  {
+    "company": "CTCP Nafoods Group - HOSE",
+    "ticker": "NAF"
+  },
+  {
+    "company": "CTCP Nafoods Group - HSX",
+    "ticker": "NAF"
+  },
+  {
+    "company": "CTCP Tập đoàn Pan - HSX",
+    "ticker": "PAN"
+  },
+  {
+    "company": "Cty Cổ phần Đường Quảng Ngãi - Upcom",
+    "ticker": "QNS"
+  },
+  {
+    "company": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn - HOSE",
+    "ticker": "SAB"
+  },
+  {
+    "company": "CTCP Lương thực Thực phẩm Safoco - HNX",
+    "ticker": "SAF"
+  },
+  {
+    "company": "CTCP Thành Thành Công - Biên Hòa - HOSE",
+    "ticker": "SBT"
+  },
+  {
+    "company": "CTCP Nước giải khát Chương Dương - HOSE",
+    "ticker": "SCD"
+  },
+  {
+    "company": "CTCP Xuất nhập khẩu Sa Giang - HNX",
+    "ticker": "SGC"
+  },
+  {
+    "company": "CTCP Nông nghiệp Hùng Hậu - HNX",
+    "ticker": "SJ1"
+  },
+  {
+    "company": "CTCP Mía Đường Sơn La - HNX",
+    "ticker": "SLS"
+  },
+  {
+    "company": "CTCP Bia Sài Gòn - Miền Trung - HOSE",
+    "ticker": "SMB"
+  },
+  {
+    "company": "Công ty Cổ phần Dầu Thực vật Tường An - HOSE",
+    "ticker": "TAC"
+  },
+  {
+    "company": "CTCP Nông nghiệp Công nghệ cao Trung An - HSX",
+    "ticker": "TAR"
+  },
+  {
+    "company": "CTCP Bia Hà Nội - Thanh Hóa - HNX",
+    "ticker": "THB"
+  },
+  {
+    "company": "CTCP Vinacafé Biên Hòa - HSX",
+    "ticker": "VCF"
+  },
+  {
+    "company": "CTCP Thực phẩm Lâm Đồng - HNX",
+    "ticker": "VDL"
+  },
+  {
+    "company": "CTCP Dược liệu và Thực phẩm Việt Nam - HNX",
+    "ticker": "VHE"
+  },
+  {
+    "company": "CTCP Lương thực Thực phẩm Vĩnh Long - Upcom",
+    "ticker": "VLF"
+  },
+  {
+    "company": "CTCP Sữa Việt Nam - HSX",
+    "ticker": "VNM"
+  },
+  {
+    "company": "Tổng Công ty Lương thực Miền Nam – CTCP - Upcom",
+    "ticker": "VSF"
+  },
+  {
+    "company": "Cty Cổ phần Việt Nam Kỹ nghệ súc sản - Upcom",
+    "ticker": "VSN"
+  },
+  {
+    "company": "CTCP Truyền thông VMG",
+    "ticker": "ABC"
+  },
+  {
+    "company": "Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP",
+    "ticker": "EMS"
+  },
+  {
+    "company": "CTCP Dịch vụ kỹ thuật Mobifone",
+    "ticker": "MFS"
+  },
+  {
+    "company": "CTCP Công nghệ thông tin, viễn thông và tự động hóa dầu khí",
+    "ticker": "PAI"
+  },
+  {
+    "company": "CTCP tin học viễn thông Petrolimex",
+    "ticker": "PIA"
+  },
+  {
+    "company": "CTCP Viễn thông FPT",
+    "ticker": "POX"
+  },
+  {
+    "company": "CTCP dịch vụ viễn thông và in Bưu Điện",
+    "ticker": "PTP"
+  },
+  {
+    "company": "CTCP Công nghệ và truyền thông Việt Nam",
+    "ticker": "TTN"
+  },
+  {
+    "company": "Tổng CTCP đầu tư Quốc tế Viettel",
+    "ticker": "VGI"
+  },
+  {
+    "company": "CTCP Mĩ thuật và Truyền thông",
+    "ticker": "ADC"
+  },
+  {
+    "company": "CTCP Clever Group",
+    "ticker": "ADG"
+  },
+  {
+    "company": "CTCP Clever Group",
+    "ticker": "ADG"
+  },
+  {
+    "company": "CTCP Văn hóa Tân Bình",
+    "ticker": "ALT"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Bình Định",
+    "ticker": "BDB"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị trường học Đà Nẵng",
+    "ticker": "BED"
+  },
+  {
+    "company": "CTCP Sách – Thiết bị Bình Thuận",
+    "ticker": "BST"
+  },
+  {
+    "company": "CTCP Truyền hình cáp Việt Nam",
+    "ticker": "CAB"
+  },
+  {
+    "company": "CTCP TỔNG CÔNG TY TRUYỀN HÌNH CÁP VIỆT NAM",
+    "ticker": "CAB"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển giáo dục Đà Nẵng",
+    "ticker": "DAD"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại TP,Đà Nẵng",
+    "ticker": "DAE"
+  },
+  {
+    "company": "Công ty TNHH MTV Sách và Thiết bị trường học tỉnh Đắk Nông",
+    "ticker": "DNB"
+  },
+  {
+    "company": "CTCP Công viên nước Đầm Sen",
+    "ticker": "DSN"
+  },
+  {
+    "company": "CTCP Đầu tư Sao Thăng Long",
+    "ticker": "DST"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại Thành phố Hà Nội",
+    "ticker": "EBS"
+  },
+  {
+    "company": "CTCP Bản đồ và Tranh ảnh Giáo dục",
+    "ticker": "ECI"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển Giáo dục Hà Nội",
+    "ticker": "EID"
+  },
+  {
+    "company": "CTCP Dịch vụ Xuất bản Giáo dục Hà Nội",
+    "ticker": "EPH"
+  },
+  {
+    "company": "CTCP Phát hành sách thành phố Hồ Chí Minh – FAHASA",
+    "ticker": "FHS"
+  },
+  {
+    "company": "CTCP Dịch vụ trực tuyến FPT",
+    "ticker": "FOC"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị trường học Hà Nội",
+    "ticker": "HAB"
+  },
+  {
+    "company": "CTCP Sách Đại học – Dạy nghề",
+    "ticker": "HEV"
+  },
+  {
+    "company": "CTCP in sách giáo khoa Hòa Phát",
+    "ticker": "HTP"
+  },
+  {
+    "company": "CTCP In Tổng hợp Bình Dương",
+    "ticker": "IBD"
+  },
+  {
+    "company": "Công ty TNHH MTV In báo Nghệ An",
+    "ticker": "IBN"
+  },
+  {
+    "company": "CTCP In Hàng không",
+    "ticker": "IHK"
+  },
+  {
+    "company": "CTCP In số 4",
+    "ticker": "IN4"
+  },
+  {
+    "company": "CTCP In và Phát hành biểu mẫu thống kê",
+    "ticker": "IPH"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị Trường học Long An",
+    "ticker": "LBE"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị giáo dục miền Bắc",
+    "ticker": "NBE"
+  },
+  {
+    "company": "CTCP Văn hóa Phương Nam",
+    "ticker": "PNC"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị trường học Quảng Ninh",
+    "ticker": "QST"
+  },
+  {
+    "company": "CTCP đầu tư PV-Inconess",
+    "ticker": "RGC"
+  },
+  {
+    "company": "CTCP In sách giáo khoa TP Hồ Chí Minh",
+    "ticker": "SAP"
+  },
+  {
+    "company": "CTCP Đầu tư và Phát triển giáo dục Phương Nam",
+    "ticker": "SED"
+  },
+  {
+    "company": "CTCP Sách Giáo dục tại thành phố Hồ Chí Minh",
+    "ticker": "SGD"
+  },
+  {
+    "company": "CTCP Khách sạn Sài Gòn",
+    "ticker": "SGH"
+  },
+  {
+    "company": "CTCP Sách và thiết bị giáo dục Miền Nam",
+    "ticker": "SMN"
+  },
+  {
+    "company": "CTCP Sách và Thiết bị trường học Tp, Hồ Chí Minh",
+    "ticker": "STC"
+  },
+  {
+    "company": "CTCP phát hành sách Thái Nguyên",
+    "ticker": "STH"
+  },
+  {
+    "company": "CTCP Đo đạc và Khoáng sản",
+    "ticker": "SUM"
+  },
+  {
+    "company": "CTCP In Sách Giáo Khoa tại TP Hà Nội",
+    "ticker": "TPH"
+  },
+  {
+    "company": "CTCP Du lịch - Thương mại Tây Ninh",
+    "ticker": "TTT"
+  },
+  {
+    "company": "CTCP Trung tâm hội chợ triển lãm Việt Nam",
+    "ticker": "VEF"
+  },
+  {
+    "company": "CTCP Sách Việt Nam",
+    "ticker": "VNB"
+  },
+  {
+    "company": "CTCP Quảng cáo và Hội chợ thương mại",
+    "ticker": "VNX"
+  },
+  {
+    "company": "CTCP VINAPRINT",
+    "ticker": "VPR"
+  },
+  {
+    "company": "CTCP tập đoàn Yeah1",
+    "ticker": "YEG"
+  },
+  {
+    "company": "Tập đoàn Công nghiệp cao su Việt Nam",
+    "ticker": "GVR"
+  },
+  {
+    "company": "Công ty CP cao su Hòa Bình",
+    "ticker": "HRC"
+  },
+  {
+    "company": "CTCP cao su Phước Hòa",
+    "ticker": "PHR"
+  },
+  {
+    "company": "Công ty CP Công nghiệp và xuất nhập khẩu cao su",
+    "ticker": "RBC"
+  },
+  {
+    "company": "Công ty CP cao su Bến Thành",
+    "ticker": "BRC"
+  },
+  {
+    "company": "Công ty CP cao su Bà Rịa",
+    "ticker": "BRR"
+  },
+  {
+    "company": "Công ty CP Xây dựng cao su Đồng Nai",
+    "ticker": "CDR"
+  },
+  {
+    "company": "CTCP Công nghiệp Cao su Miền Nam",
+    "ticker": "CSM"
+  },
+  {
+    "company": "Công ty CP Cao su Đồng Phú",
+    "ticker": "DPR"
+  },
+  {
+    "company": "Công ty CP cao su Đà Nẵng",
+    "ticker": "DRC"
+  },
+  {
+    "company": "Công ty CP cao su Đắk Lắk",
+    "ticker": "DRG"
+  },
+  {
+    "company": "Công ty CP Đầu tư cao su Đăk Lăk",
+    "ticker": "DRI"
+  },
+  {
+    "company": "Công ty CP Đầu tư cao su Đắk Lắk",
+    "ticker": "DRI"
+  },
+  {
+    "company": "Tập đoàn Công nghiệp cao su Việt Nam",
+    "ticker": "GVR"
+  },
+  {
+    "company": "Công ty CP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+    "ticker": "HNG"
+  },
+  {
+    "company": "Công ty CP cao su Hòa Bình",
+    "ticker": "HRC"
+  },
+  {
+    "company": "Công ty CP Cao su Hà Nội",
+    "ticker": "HRG"
+  },
+  {
+    "company": "Công ty CP Cao su Công nghiệp",
+    "ticker": "IRC"
+  },
+  {
+    "company": "Công ty CP cao su Phước Hòa",
+    "ticker": "PHR"
+  },
+  {
+    "company": "Công ty CP Công nghiệp và xuất nhập khẩu cao su",
+    "ticker": "RBC"
+  },
+  {
+    "company": "Công ty CP xây dựng Địa ốc cao su",
+    "ticker": "RCD"
+  },
+  {
+    "company": "Công ty CP Xây dựng – địa ốc cao su",
+    "ticker": "RCD"
+  },
+  {
+    "company": "Công ty CP cao su Tân Biên",
+    "ticker": "RTB"
+  },
+  {
+    "company": "Công ty CP Đầu tư Cao su Tân Biên",
+    "ticker": "RTB"
+  },
+  {
+    "company": "Công ty CP Cao su Sông Bé",
+    "ticker": "SBR"
+  },
+  {
+    "company": "CTCP Cao su Sao Vàng",
+    "ticker": "SRC"
+  },
+  {
+    "company": "Công ty CP cao su Thống Nhất",
+    "ticker": "TNC"
+  },
+  {
+    "company": "Công ty CP Cao su Tây Ninh",
+    "ticker": "TRC"
+  },
+  {
+    "company": "Công ty CP cao su Quảng Nam",
+    "ticker": "VHG"
+  },
+  {
+    "company": "Công ty CP Đầu tư cao su Quảng Nam",
+    "ticker": "VHG"
+  },
+  {
+    "company": "Công ty CP Phát triển đô thị và khu công nghiệp cao su Việt Nam",
+    "ticker": "VRG"
+  }
+]
