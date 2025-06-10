@@ -1,71 +1,54 @@
-# ======================
-# Python Bytecode & Cache
-# ======================
+# Byte-compiled / cache
 __pycache__/
 *.py[cod]
 *.so
 *.log
-*.sqlite3
-*.db
-*.ipynb_checkpoints
 
-# ======================
-# Python Virtual Env
-# ======================
+# Jupyter Notebooks (nếu có thể tách riêng tập huấn luyện)
+*.ipynb_checkpoints
+*.ipynb
+
+# Virtual environments
 .venv/
 venv/
 .env
+env/
 
-# ======================
-# Dữ liệu Crawl, Huấn luyện, Tạm thời
-# ======================
-data/
-test.html
-*.csv
-*.json
-*.txt
+# SQLite / DB / Temp files
+*.sqlite3
+*.db
+*.tmp
 
-# ======================
-# Model weights, training artifacts
-# ======================
+# ChromeDriver & cài đặt trình duyệt
+chromedriver-linux64/
+chromedriver-linux64.zip
+google-chrome-stable_current_amd64.deb
+
+# Model files (joblib, pkl, pt, etc.)
 *.joblib
 *.pkl
 *.pt
 *.pth
 
-# ======================
-# Build files (FastAPI, Python)
-# ======================
+# Output & dist
 *.egg-info/
 dist/
 build/
 
-# ======================
-# ChromeDriver & trình duyệt cài thêm
-# ======================
-chromedriver-linux64/
-chromedriver-linux64.zip
-google-chrome-stable_current_amd64.deb
+# Test / sample HTML
+test.html
 
-# ======================
-# React / Node.js (frontend)
-# ======================
+# All data folders
+data/
+!data/company_ticker_list.json  # nếu muốn giữ lại file mapping nhỏ
+
+# Frontend build folders
 frontend/stock-webapp/node_modules/
 frontend/stock-webapp/dist/
 frontend/stock-webapp/.vite/
 frontend/stock-webapp/.env
 
-# ======================
-# VSCode / JetBrains / macOS
-# ======================
+# Editor / OS files
 .vscode/
 .idea/
 .DS_Store
-
-# ======================
-# Các file quá lớn (>100MB) riêng biệt (dù đã ignore data/, thêm để chắc chắn)
-# ======================
-data/articles_with_sentiment.json
-data/articles_preprocessed.json
-data/cafef_articles/2025-04-22/articles_combined.json
-
