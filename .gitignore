@@ -1,4 +1,6 @@
-# Python
+# ======================
+# Python Bytecode & Cache
+# ======================
 __pycache__/
 *.py[cod]
 *.so
@@ -7,41 +9,63 @@ __pycache__/
 *.db
 *.ipynb_checkpoints
 
-# Env & venv
+# ======================
+# Python Virtual Env
+# ======================
 .venv/
 venv/
 .env
 
-# Dữ liệu crawl và tạm
+# ======================
+# Dữ liệu Crawl, Huấn luyện, Tạm thời
+# ======================
 data/
 test.html
 *.csv
 *.json
 *.txt
 
-# Model weights
+# ======================
+# Model weights, training artifacts
+# ======================
 *.joblib
 *.pkl
 *.pt
 *.pth
 
-# FastAPI build
+# ======================
+# Build files (FastAPI, Python)
+# ======================
 *.egg-info/
 dist/
 build/
 
-# ChromeDriver & browser
+# ======================
+# ChromeDriver & trình duyệt cài thêm
+# ======================
 chromedriver-linux64/
 chromedriver-linux64.zip
 google-chrome-stable_current_amd64.deb
 
-# Node / React
+# ======================
+# React / Node.js (frontend)
+# ======================
 frontend/stock-webapp/node_modules/
 frontend/stock-webapp/dist/
 frontend/stock-webapp/.vite/
 frontend/stock-webapp/.env
 
-# VSCode / IDE
+# ======================
+# VSCode / JetBrains / macOS
+# ======================
 .vscode/
 .idea/
 .DS_Store
+
+# ======================
+# Các file quá lớn (>100MB) riêng biệt (dù đã ignore data/, thêm để chắc chắn)
+# ======================
+data/articles_with_sentiment.json
+data/articles_preprocessed.json
+data/cafef_articles/2025-04-22/articles_combined.json
+
