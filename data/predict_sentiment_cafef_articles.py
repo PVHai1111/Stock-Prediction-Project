@@ -1,3 +1,4 @@
+#predict_sentiment_cafef_articles.py
 from transformers import RobertaForSequenceClassification, AutoTokenizer
 from underthesea import word_tokenize
 import torch

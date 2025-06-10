@@ -1,0 +1,49 @@
+.container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #fafafa;
+  margin-top: 20px;
+}
+
+.ticker {
+  color: #1e88e5;
+  font-weight: bold;
+}
+
+.summary p {
+  margin: 5px 0;
+}
+
+.prediction {
+  font-weight: bold;
+  padding: 4px 12px;
+  border-radius: 6px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.up {
+  background-color: #c8e6c9;
+  color: #2e7d32;
+}
+
+.down {
+  background-color: #ffcdd2;
+  color: #c62828;
+}
+
+.section {
+  margin-top: 15px;
+}
+
+.section h3 {
+  margin-bottom: 10px;
+}
+
+.section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+

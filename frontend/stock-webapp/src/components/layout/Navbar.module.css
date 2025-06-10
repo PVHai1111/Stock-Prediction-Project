@@ -1,0 +1,45 @@
+/* src/components/layout/Navbar.module.css */
+
+.navbar {
+  position: fixed;              /* ✅ giữ cố định trên đầu */
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0a0a23;
+  padding: 1rem 2rem;
+  color: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.brand {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navLinks li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: border-bottom 0.2s ease-in;
+}
+
+.navLinks li a:hover,
+.navLinks li a.active {
+  border-bottom: 2px solid #00d9ff;
+}

@@ -1,0 +1,71 @@
+/* frontend/stock-webapp/src/pages/PredictionPage/PredictionPage.module.css */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f5f8ff;
+  border-radius: 12px;
+}
+
+.card {
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.formGroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.select {
+  min-width: 200px;
+  flex: 1;
+}
+
+.button {
+  height: 40px;
+  padding: 0 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover:not(:disabled) {
+  background-color: #1565c0;
+}
+
+.button:disabled {
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+  opacity: 0.9;
+}
+
+.result {
+  background-color: #ffffff;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #dcdcdc;
+  margin-top: 1.5rem;
+  line-height: 1.8;
+}
+
+.loading {
+  margin-top: 1rem;
+}
+
+.progressMessage {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #444;
+  margin-bottom: 1rem;
+}
+

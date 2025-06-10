@@ -1,0 +1,66 @@
+/* src/pages/PriceHistoryPage/PriceHistoryPage.module.css */
+
+.container {
+  width: 100%;
+  padding: 2rem 4rem;
+  background-color: #f8fafc;
+  color: #111827;
+  box-sizing: border-box;
+}
+
+.heading {
+  font-size: 1.75rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.topControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.topControls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  color: #374151;
+}
+
+.topControls input[type="date"] {
+  padding: 6px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  margin-top: 4px;
+  background-color: white;
+  color: #111827;
+}
+
+.button {
+  padding: 8px 16px;
+  background-color: #10b981;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #059669;
+}
+
+
+.chartContainer {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+
+

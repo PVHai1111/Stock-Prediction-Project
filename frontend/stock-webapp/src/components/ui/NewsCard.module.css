@@ -1,0 +1,84 @@
+/*
+  NewsCard.module.css
+  Styles for the NewsCard component
+*/
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  background-color: #fff;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.source {
+  font-weight: bold;
+  color: #1976d2;
+}
+
+.title {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+}
+
+.title:hover {
+  text-decoration: underline;
+}
+
+.tickers {
+  margin-bottom: 0.5rem;
+}
+
+.tickerTag {
+  display: inline-block;
+  background-color: #e0f7fa;
+  color: #00796b;
+  border-radius: 8px;
+  padding: 0.2rem 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.summary {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.footer {
+  font-size: 0.8rem;
+  color: #888;
+  text-align: right;
+}
+
+.articleDate {
+  font-size: 0.9rem;
+  color: #777;
+  font-style: italic;
+}
+
+.sectors {
+  margin-bottom: 0.5rem;
+}
+
+.sectorTag {
+  display: inline-block;
+  background-color: #fff3e0;
+  color: #ef6c00;
+  border-radius: 8px;
+  padding: 0.2rem 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 0.75rem;
+}
+
+

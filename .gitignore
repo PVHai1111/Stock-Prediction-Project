@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.sqlite3
+*.db
+*.ipynb_checkpoints
+
+# Env & venv
+.venv/
+venv/
+.env
+
+# Dữ liệu crawl và tạm
+data/
+test.html
+*.csv
+*.json
+*.txt
+
+# Model weights
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+# FastAPI build
+*.egg-info/
+dist/
+build/
+
+# ChromeDriver & browser
+chromedriver-linux64/
+chromedriver-linux64.zip
+google-chrome-stable_current_amd64.deb
+
+# Node / React
+frontend/stock-webapp/node_modules/
+frontend/stock-webapp/dist/
+frontend/stock-webapp/.vite/
+frontend/stock-webapp/.env
+
+# VSCode / IDE
+.vscode/
+.idea/
+.DS_Store
