@@ -4,7 +4,7 @@ import time
 import re
 from datetime import datetime
 from app.tasks.news_pipeline import (
-    crawl_cafef,
+    crawl_cafef, 
     preprocess_articles,
     tag_tickers,
     tag_sectors,
@@ -27,11 +27,9 @@ def already_exists(link: str) -> bool:
 def normalize_date(date_str: str) -> str:
     date_str = date_str.strip()
 
-    # Nếu đã đúng định dạng YYYY-MM-DD thì trả về luôn
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}", date_str):
         return date_str
 
-    # Các định dạng khác có thể gặp
     date_str = re.sub(r" - 00:(\d{2}) AM", r" - 12:\1 AM", date_str)
     date_str = re.sub(r" - (\d{2}:\d{2})\s*(AM|PM)", r" - \1", date_str)
 
@@ -59,7 +57,9 @@ def run_once():
 
     # Step 1: Crawl
     print("🚀 Đang thu thập tin tức từ CafeF...")
-    articles = crawl_cafef.run()
+    articles_cafef = crawl_cafef.run()
+
+    articles = articles_cafef
 
     # Step 2: Lọc bài trùng & chuẩn hóa ngày
     filtered = []
@@ -95,7 +95,7 @@ def run_once():
     tagged_articles = tag_sectors.run(tagged_articles)
 
     # Step 5: Analyze sentiment
-    print("Đang phân tích sentiments...")
+    print("🔍 Đang phân tích sentiments...")
     analyzed_articles = analyze_sentiment_per_entity.run(tagged_articles)
 
     # Step 6: Insert to DB
@@ -116,3 +116,4 @@ def main_loop():
 if __name__ == "__main__":
     # main_loop()
     run_once()
+

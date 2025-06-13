@@ -156,6 +156,8 @@ def prepare_latest_features(ticker: str, db: Session) -> dict:
             "title": a.title,
             "published_time": a.published_time.isoformat() if a.published_time else "",
             "link": a.link,
+            "sapo": a.sapo,
+            "summary": a.summary,
         }
 
     # Đếm sentiment

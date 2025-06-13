@@ -1,9 +1,14 @@
 # app/services/predictor.py
 
 import pandas as pd
+from collections import defaultdict
 from app.db import SessionLocal
 from app.tasks.model_pipeline.prepare_features import prepare_latest_features
 from app.tasks.model_pipeline.models import random_forest, xgboost, lightgbm
+from app.models.news import News
+from app.models.news_ticker_mapping import NewsTickerMapping
+from app.models.news_sector_mapping import NewsSectorMapping
+
 
 def predict_from_latest_data(ticker: str, model_name: str = "random_forest"):
     db = SessionLocal()
@@ -50,7 +55,47 @@ def predict_from_latest_data(ticker: str, model_name: str = "random_forest"):
         else:
             importance = {}
 
-        # 8. Trả về kết quả đầy đủ
+        # 8. Lấy danh sách bài viết mới nhất
+        latest_articles = latest_data.get("latest_articles", [])
+        article_ids = [a["id"] for a in latest_articles if "id" in a]
+
+        # 9. Truy vấn cảm xúc ticker/sector cho các bài viết đó
+        ticker_sentiments = db.query(NewsTickerMapping).filter(
+            NewsTickerMapping.news_id.in_(article_ids)
+        ).all()
+        sector_sentiments = db.query(NewsSectorMapping).filter(
+            NewsSectorMapping.news_id.in_(article_ids)
+        ).all()
+
+        # 10. Gom nhóm theo bài viết
+        ticker_map = defaultdict(list)
+        for r in ticker_sentiments:
+            ticker_map[r.news_id].append({
+                "ticker": r.ticker,
+                "sentiment": r.sentiment,
+                "confidence": float(r.confidence or 0)
+            })
+
+        sector_map = defaultdict(list)
+        for r in sector_sentiments:
+            sector_map[r.news_id].append({
+                "sector": r.sector,
+                "sentiment": r.sentiment,
+                "confidence": float(r.confidence or 0)
+            })
+
+        # 11. Gộp dữ liệu vào mỗi bài viết
+        for article in latest_articles:
+            article["tickers"] = ticker_map.get(article["id"], [])
+            article["sectors"] = sector_map.get(article["id"], [])
+            article["summary"] = (
+                article.get("sapo") or
+                article.get("summary") or
+                article.get("content", "")[:300] or
+                "Không có mô tả."
+            )
+
+        # 12. Trả về kết quả đầy đủ
         return {
             "ticker": ticker,
             "model": model_name,
@@ -60,11 +105,12 @@ def predict_from_latest_data(ticker: str, model_name: str = "random_forest"):
             "feature_importance": importance,
             "latest_close": latest_data.get("latest_close"),
             "date": str(latest_data.get("date")),
-            "latest_articles": latest_data.get("latest_articles", []),
+            "latest_articles": latest_articles,
         }
 
     finally:
         db.close()
+
 
 
 

@@ -3,11 +3,10 @@
 import json
 import os
 import re
-import nltk
 from underthesea import sent_tokenize
 
 EXTRA_INDEXES = {
-    "VNINDEX", "VN30", "HNXINDEX", "HNX30", "UPCOMINDEX", "VNXALL", "VNX100"
+    # Có thể thêm các index đặc biệt khác ở đây nếu cần
 }
 
 # Load danh sách mã và tên công ty
@@ -22,14 +21,12 @@ for item in ticker_list:
     cleaned_name = re.sub(r"\s*\(.*?\)", "", raw_name).strip().lower()
     ticker_map[item["ticker"].upper()] = cleaned_name
 
-TICKER_REGEX = re.compile(r"\b[A-Z]{3,5}\b")
-
 def run(articles: list[dict]) -> list[dict]:
     for article in articles:
         ticker_dict = {}
         ticker_sentences = {}
 
-        # Nếu có trường data-symbol
+        # Ưu tiên gán nếu có sẵn trường data-symbol
         if "data-symbol" in article and article["data-symbol"]:
             code = article["data-symbol"].strip().upper()
             ticker_dict[code] = {
@@ -45,8 +42,9 @@ def run(articles: list[dict]) -> list[dict]:
             sentence_lower = sentence.lower()
 
             for ticker, company_name in ticker_map.items():
-                # Ưu tiên gán ticker nếu tìm thấy mã (code)
-                if ticker in sentence:
+                # ✅ So khớp chính xác ticker viết hoa, được phân tách bằng ký tự không phải chữ cái (dùng regex)
+                pattern = rf"(?<![A-Z])\b{ticker}\b(?![A-Z])"
+                if re.search(pattern, sentence):
                     if ticker not in ticker_dict:
                         ticker_dict[ticker] = {
                             "ticker": ticker,
@@ -55,7 +53,7 @@ def run(articles: list[dict]) -> list[dict]:
                         }
                     ticker_dict[ticker]["sentences"].append(sentence.strip())
 
-                # Sau đó mới xét đến tên công ty (company)
+                # Nếu không tìm thấy ticker thì mới kiểm tra tên công ty (lowercase)
                 elif company_name in sentence_lower:
                     if ticker not in ticker_dict:
                         ticker_dict[ticker] = {
@@ -65,6 +63,7 @@ def run(articles: list[dict]) -> list[dict]:
                         }
                     ticker_dict[ticker]["sentences"].append(sentence.strip())
 
+            # Gán theo index đặc biệt nếu có
             for index in EXTRA_INDEXES:
                 if index in sentence:
                     if index not in ticker_dict:
@@ -86,6 +85,7 @@ def run(articles: list[dict]) -> list[dict]:
 
     print(f"✅ Đã gán ticker và câu chứa mã cho {len(articles)} bài viết.")
     return articles
+
 
 
 
